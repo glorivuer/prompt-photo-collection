@@ -37,4 +37,8 @@ LENSVERSE /「镜界」｜ZH4O｜设计系列｜GPT 4o Creation
 
 ![image](https://github.com/user-attachments/assets/2c5caa5f-e916-4242-92dc-c99c14a534ab)
 
+提示词（需要垫图）：
+京东CEO刘强东（图1）和美团CEO王兴（参考图2，3，4）出现在“Ring”智能门铃摄像头前，刘强东穿着京东红色外卖服戴着红色京东外卖头盔，王兴穿着黄色美团外卖服戴着黄色美团外卖头盔。刘强东手里拿着京东外卖袋（装着盒饭），王兴手里拿着美团外卖袋（装着珍珠奶茶）。摄像头清晰度不算太高，图像略有模糊。
+
+![image](https://github.com/user-attachments/assets/4bfe9a8b-aa0e-4555-ac3c-fa13435c37f6)
 
