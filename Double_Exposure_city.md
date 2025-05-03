@@ -20,3 +20,15 @@ prompt:  Side profile face of [SUBJECT] and [CITY/LOCATION], double exposure por
 ![image](https://github.com/user-attachments/assets/47442057-06c7-4132-8b5c-5f0d8e75d354)
 
 ![image](https://github.com/user-attachments/assets/414b9c53-502c-442d-b31b-99985f59a457)
+
+
+![image](https://github.com/user-attachments/assets/64476e68-e441-4130-9ad0-b5665bac7c62)
+
+![image](https://github.com/user-attachments/assets/1fd2fef2-df9e-44f5-a2b5-57ba4f842eb2)
+
+![image](https://github.com/user-attachments/assets/8e71606c-cbaf-40f1-bb20-772c6e14a9c2)
+
+![image](https://github.com/user-attachments/assets/c9de2164-0462-44e8-b578-aa4cc2872eb1)
+
+![image](https://github.com/user-attachments/assets/cc4af72a-feaf-4e53-bde1-808838a1ff45)
+
