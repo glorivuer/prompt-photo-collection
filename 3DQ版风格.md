@@ -1,0 +1,10 @@
+把照片变成 3D Q版风格
+工具：Sora 或 GPT-4o
+提示词（需要上传一张照片）：
+
+将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变。
+![image](https://github.com/user-attachments/assets/64e8c834-ccfe-4a67-a835-1236a6a6ee17)
+
+参考宝玉老师和评论区专业大佬的思路，用Claude给出各个方向的提示词。发现出来的图比我之前真的好太多了！
+![image](https://github.com/user-attachments/assets/45d770a6-da77-4967-adb2-28c911cfa2e3)
+
