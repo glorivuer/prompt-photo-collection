@@ -1,3 +1,17 @@
+
+We've released an update to Gen-4 References that brings marked improvements to aesthetic quality, scene composition and identity preservation. Alongside this update comes a number of exciting new use cases which we'll be sharing more about in the coming days.
+
+Gen-4 References is available to all Runway plans.
+
+您现在可以指定布局！通过准备粗略的构图，您可以通过控制物体的位置和放置来生成图像。我尝试了一下并且它按照指示工作了。对 Runway 参考资料抱有很高的期望
+![image](https://github.com/user-attachments/assets/8891fabc-6c69-43e1-8e3e-7cb33cd6d7c8)
+![image](https://github.com/user-attachments/assets/2a119223-73f7-4b39-acbe-5fea14dd68dd)
+![image](https://github.com/user-attachments/assets/8c16c917-7ddd-47b3-81ca-02cda300474e)
+
+
+
+
+
 Triangle tips can show where characters are looking. Loving the control :)
 ![image](https://github.com/user-attachments/assets/10296407-ceaf-4cb4-85b0-dc4839c5a9b2)
 ![image](https://github.com/user-attachments/assets/5c52d74c-0341-4a01-82a9-fc65f5ae8441)
