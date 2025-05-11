@@ -1,3 +1,60 @@
+We've released an update to Gen-4 References that brings marked improvements to aesthetic quality, scene composition and identity preservation. Alongside this update comes a number of exciting new use cases which we'll be sharing more about in the coming days.
+
+Gen-4 References is available to all Runway plans.
+![image](https://github.com/user-attachments/assets/6301d87b-1269-479e-9095-e88199a49d7c)
+1. Cyberpunk Glow-Up
+
+“Transform this image of this subject into a cyberpunk aesthetic neon lights, dark city backdrop, glowing signs, misty rain, and futuristic accessories. Add moody shadows and light reflections on metallic surfaces.”
+![image](https://github.com/user-attachments/assets/fa173a68-1123-469f-828e-b6260f3f7680)
+2. Cartoonify Me
+
+“Convert this image of [your subject here] into a 3D Pixar-style cartoon  clean lines, soft lighting, expressive features, and a polished render that feels cinematic.”
+![image](https://github.com/user-attachments/assets/f2491b47-82d9-4ea1-ba62-6f72c60a6b03)
+3. Ghibli Makeover
+
+“Remix this photo into a Studio Ghibli-style illustration — soft watercolor palette, delicate linework, cozy atmosphere, and fantasy elements like floating lights or magical plants.”
+![image](https://github.com/user-attachments/assets/21e46750-ae88-461a-9c23-e09d890d68c5)
+4. Oil Painting Filter
+
+“Apply an oil painting effect to this image visible brush strokes, textured canvas feel, rich color layers, and Rembrandt-inspired lighting.”
+![image](https://github.com/user-attachments/assets/5cf1a31f-d9c9-41a7-92ad-e891005b84c1)
+
+5. Magazine Cover Edit
+
+“Design a luxury magazine cover using this image of [your subject here]. Include elegant typography, barcode, cover lines, and white space margin layout inspired by Vogue or Forbes.”
+![image](https://github.com/user-attachments/assets/93db4f3d-035f-4b4b-ac60-400faec1afc1)
+6. Surreal Dream Filter
+
+“Remix this into a surreal dreamscape soft haze, levitating objects, bending background, and unnatural light sources. Keep a pastel-toned atmosphere.”
+![image](https://github.com/user-attachments/assets/dcfd67e3-1ca8-4ef1-83e7-8526e137e7e8)
+7. Anime Scene Overlay
+
+“Stylize this image like an anime still bold linework, cel shading, speed lines in the background, and optional Japanese text or subtitle at the bottom.”
+![image](https://github.com/user-attachments/assets/349c00aa-c401-4ef4-9a7e-9e772fcae140)
+8. Noir Lighting Treatment
+
+“Transform this into a classic noir scene high-contrast black and white, sharp shadows, foggy ambiance, and vintage film grain.”
+
+![image](https://github.com/user-attachments/assets/10ab7fc4-0db3-4ad3-97a6-ff7bd5e6730b)
+9. 3D Sculpted Look
+
+“Make this image look like a marble sculpture grayscale tone, chiseled features, and museum-style spotlighting. Optional: pedestal base.”
+![image](https://github.com/user-attachments/assets/56f5296b-de71-4221-8bb3-69f7d08ded7c)
+0. High-Fashion Editorial
+
+“Elevate this image to a high-fashion editorial spread glossy texture, cinematic color grading, luxury setting, and softbox-style lighting.”
+![image](https://github.com/user-attachments/assets/b3c579c2-d7bf-4b98-bace-f54dd2f151af)
+11. Golden Hour Filter
+
+“Apply golden hour tones to this image warm sunlight, soft highlights, long shadows, and dreamy golden hues.”
+![image](https://github.com/user-attachments/assets/8751f049-dd0f-42f4-af67-8dabcff7a2ad)
+12. Glitch Effect Remix
+
+“Turn this into glitch art RGB channel split, digital distortion, pixel drag, VHS noise, and futuristic UI elements.”
+![image](https://github.com/user-attachments/assets/c1af2f7d-1fb2-469c-a51d-ea59b8a8713e)
+
+
+
 提示：YAML 提示仅支持日语
 
 把编曲提示交给AI吧！
