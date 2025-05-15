@@ -1,3 +1,8 @@
+
+Another example using Runway’s new References update. I used Ref 1 and Ref 2 to dress her up, and it turned out pretty cool imo. https://x.com/egeberkina/status/1922363408751505834
+
+
+
 Now you can bring your designs to life with AI in just minutes! https://x.com/techhalla/status/1921321872903614768
 
 All you need are the right prompts and tools—and I’m breaking it all down for you in this thread 🧵👇
