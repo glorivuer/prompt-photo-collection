@@ -2,6 +2,8 @@ Another useful prompt for storytellers - Coming from a Book!
 https://x.com/icreatelife/status/1923179088677675283
 
 prompt: [SCENE], coming out of an open book, realistic, on solid background insanely detailed and intricate, award-winning cinematography, award-winning photography, cinematic 
+
+
 ![image](https://github.com/user-attachments/assets/162d2934-e703-43ca-b60c-7d461d5a08d9)
 ![image](https://github.com/user-attachments/assets/e8d9ef00-baa7-4096-a800-37bebbaee7ff)
 ![image](https://github.com/user-attachments/assets/a767565d-0beb-49f2-aa43-4812d123f19c)
