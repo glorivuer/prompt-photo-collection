@@ -1,3 +1,8 @@
+a 3D Q version style fox avatar
+![image](https://github.com/user-attachments/assets/769b3c1f-3a34-464e-8a2e-7c2a8ff4f124)
+
+
+
 把照片变成 3D Q版风格
 工具：Sora 或 GPT-4o
 提示词（需要上传一张照片）：
