@@ -1,3 +1,7 @@
+a 3D Q version Pixar style  cute smile leopard avatar
+![image](https://github.com/user-attachments/assets/6db86ad8-8e39-445a-b9c2-3beeb5ff8a0f)
+
+
 
 a 3D Q version Pixar style  white Peregrine Falcon avatar
 ![image](https://github.com/user-attachments/assets/05a4c171-eb04-4353-bcd6-662b5e92aeb5)
