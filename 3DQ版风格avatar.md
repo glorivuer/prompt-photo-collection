@@ -1,3 +1,9 @@
+
+a 3D Q version Pixar style  white Peregrine Falcon avatar
+![image](https://github.com/user-attachments/assets/05a4c171-eb04-4353-bcd6-662b5e92aeb5)
+
+
+
 a 3D Q version style fox avatar
 ![image](https://github.com/user-attachments/assets/769b3c1f-3a34-464e-8a2e-7c2a8ff4f124)
 
