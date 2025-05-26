@@ -1,6 +1,8 @@
 
 
 Gemini 2.5 Pro nsfw content
+
+https://www.reddit.com/r/GoogleGeminiAI/s/MPgrRMSYEP
 Chapter 1: How to Talk to the Model – The Art of Persuasion and Experimentation
 
 Introduction
