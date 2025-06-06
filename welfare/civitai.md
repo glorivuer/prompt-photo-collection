@@ -1,3 +1,7 @@
+ A 1990s portrait of a sexy japanese woman, long blackhair with hairband. pale skin She wearing a unbuttoned shirt . shirt is open showing small breasts, nipples , slight smile, mottled grey-blue school photo background, soft vintage lighting
+
+
+
 Candid video, Cinematic, depth of field, volumetric lighting, 
 A close up shot from a modern Hollywood film showing an adorable 19 year old female with low profile round rose gold glasses and a low profile silver necklace and a silver wristwatch, 
 she is wearing tight black mini skirt and a white unbuttoned shirt her shirt is open and hangs loosely off of her shoulders, Her full breasts and nipples were on display in her bare white shirt, 
