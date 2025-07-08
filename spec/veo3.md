@@ -36,3 +36,92 @@ https://x.com/IamEmily2050/status/1941885053619068984?s=19
   },
   "color_palette": "fluorescent pinks, blues, greens over cool black outfits and neutral pavement tones"
 }
+
+
+
+富士山のシーンのプロンプトは👇
+
+meta:
+  duration: "8s"
+  aspect_ratio: "16:9"
+
+synopsis: |
+  The anthropomorphic pixel-art Shiba Inu (red scarf, travel pouch) and the same friendly
+  Japanese woman stand at the wooden railing on the Lake Kawaguchi shoreline.  In clear
+  mid-morning light, they admire Mount Fuji reflecting on the calm water.  After sharing
+  enthusiastic remarks, they turn toward the camera and wave together.
+
+visual:
+  setting:
+    location: "Lake Kawaguchi shoreline with Mount Fuji centered in the background"
+    time_of_day: "mid-morning"
+    palette: "crisp sky-blue, snow-white summit, lush greens, gentle lake reflections"
+  camera:
+    framing: "medium two-shot at the wooden railing"
+    movement: "slow pan upward revealing Fuji behind the characters"
+    focus: "characters sharp; mountain slightly dreamy"
+  actions:
+    - "Dog and woman stroll up to the railing and pause"
+    - "Dog points excitedly at Fuji; eyes sparkle with a brief 8-bit twinkle"
+    - "Woman smiles, nodding in agreement"
+    - "Both face the camera and wave warmly"
+  props:
+    - "wooden lakeside railing"
+    - "tourist binocular stand"
+    - "distant swan boat on the water"
+
+audio:
+  ambient: "gentle lake lapping, distant bird calls, light breeze through trees"
+  sfx:
+    - timing: "at the dog’s eye sparkle"
+      description: "brief, cheerful 8-bit twinkle"
+  bgm: "none"   # environment sound + dialogue only
+
+dialogue:
+  - character: "Pixel Shiba Inu"
+    line: "Konnichiwa! Fuji-san ga mizu ni utsutteru yo! Kirei da ne!"
+    subtitles: true
+  - character: "Japanese Woman"
+    line: "Hontou! Kono keshiki wa iki wo nomu hodo utsukushii ne!"
+    subtitles: true
+
+
+
+
+    meta:
+  duration: "8s"
+  aspect_ratio: "16:9"
+
+synopsis: |
+  An anthropomorphic, pixel-art Shiba Inu tourist and a friendly Japanese woman arrive
+  together at Zojo-ji Temple’s plaza.  They admire the vivid red Tokyo Tower, share a
+  quick exchange, and wave to the viewer in cheerful greeting.
+
+visual:
+  setting:
+    location: "Tokyo Tower viewed from the Zojo-ji Temple path"
+    time_of_day: "late afternoon"
+    palette: "sky-blue, tower-red, soft greens and grays"
+  camera:
+    framing: "medium two-shot"
+    movement: "gentle dolly-in toward the tower behind the characters"
+    focus: "soft natural background blur"
+  actions:
+    - "Shiba Inu and woman stroll in side-by-side, stop, and look up at Tokyo Tower"
+    - "Shiba Inu turns to camera, waves; woman joins the wave"
+    - "Sparkles appear by the paw, pigeons flutter past in the distance"
+
+audio:
+  ambient: "distant city traffic, light breeze, soft visitor chatter"
+  sfx:
+    - timing: "at the Shiba Inu’s paw wave"
+      description: "cheerful 8-bit sparkle sound"
+  bgm: "none"   # only environmental sound and dialogue
+
+dialogue:
+  - character: "Pixel Shiba Inu"
+    line: "Yaa! Tokyo Tawaa ni kita yo!"
+    subtitles: true
+  - character: "Japanese Woman"
+    line: "Suteki! Issho ni shashin torou?"
+    subtitles: true
