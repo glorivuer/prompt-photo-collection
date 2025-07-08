@@ -8,4 +8,12 @@ I did not mention the swimming pool nor the table in the prompt. https://x.com/S
 
 ![image](https://github.com/user-attachments/assets/5d9b0b02-bbca-49bb-9868-44ed4271929c)
 
+
+> @ woman holds the @ bottle up, the bottle is the subject, the @ woman is visible but she is blurred, she is in the @ living_room, it is a product photo shoot
+
+(Hand incoherencies fixed with a flux-kontext pass)
+
+![image](https://github.com/user-attachments/assets/313f5aec-64d9-418a-aa16-e165e7ba88e4)
+
+
  
