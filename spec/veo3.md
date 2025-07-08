@@ -126,3 +126,44 @@ dialogue:
   - character: "Japanese Woman"
     line: "Suteki! Issho ni shashin torou?"
     subtitles: true
+
+
+
+    Veo3 fast on the Gemini app 😀
+
+{
+  "shot": {
+    "composition": "Single continuous take, starts as a static medium-wide shot from behind the man, 40mm anamorphic lens on ARRI Alexa LF",
+    "camera_motion": "static at first, then slow dolly arc around the man only in the final seconds to reveal his face",
+    "frame_rate": "24fps",
+    "film_grain": "Kodak 250D digital emulation with subtle grain overlay"
+  },
+  "subject": {
+    "description": "A 40-year-old man with a sharp jawline and slicked-back black hair, wearing a tailored charcoal gray suit with a crisp white shirt and black tie",
+    "wardrobe": "tailored charcoal gray suit, white dress shirt, black tie, polished black dress shoes"
+  },
+  "scene": {
+    "location": "grand Gothic cathedral interior",
+    "time_of_day": "midday",
+    "environment": "vast stone altar hall with shafts of colored light from stained-glass windows piercing the haze; solemn rows of wooden pews line both sides"
+  },
+  "visual_details": {
+    "action": "The man stands still at the altar with his back to the camera. He raises his hand slowly as he swears. The camera holds behind him until the final moment, then arcs around to show his face as he delivers the last words. Just as the camera settles, his face suddenly morphs into clown makeup with a surreal comedic sting.",
+    "props": "grand stone altar, lit candles, religious symbols, ambient haze, stained-glass projections"
+  },
+  "cinematography": {
+    "lighting": "natural sunlight through stained glass with ambient fill; subtle rim lighting on shoulders and head",
+    "tone": "hyperrealistic with ironic, dark comedic twist"
+  },
+  "audio": {
+    "ambient": "soft cathedral reverb, subtle breeze, occasional wooden creaks",
+    "dialogue": "Man (deep, solemn, heroic): 'I swear in the name of Jesus, almighty God and Buddha, there has never been a list.'",
+    "sound_design": "final beat is a sudden, absurd circus brass sting timed with the clown-face reveal"
+  },
+  "color_palette": "natural stone grays and warm stained-glass hues; clown face in jarring saturated reds and whites",
+  "dialogue": {
+    "character": "Man",
+    "line": "I swear in the name of Jesus, almighty God and Buddha, there has never been a list.",
+    "subtitles": false
+  }
+}
