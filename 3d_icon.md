@@ -8,3 +8,6 @@ A 3D-rendered digital image of an adorable cartoon [character], designed in a so
 https://x.com/tranmautritam/status/1930615022511899082
 
 ![image](https://github.com/user-attachments/assets/f9db899f-6ea9-4f01-a696-fd11ebfb152b)
+
+![image](https://github.com/user-attachments/assets/3d47ec18-dacd-4857-83f8-aa7c466ad336)
+
