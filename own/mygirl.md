@@ -1,3 +1,11 @@
+This is a mixed media composite image of a 22-year-old detailed, photo-realistic Chinese female influencer holding hands with the classic 2D cartoon-rendered anime character Inuyasha at an intersection on the Bund in Shanghai. The woman is realistic, while Inuyasha displays his unique animation art style. The two interact naturally, and the woman looks directly at the camera with a natural and lovely smile. The pose is natural and relaxed. She wears a feminine outfit, a long black ruffled skirt with a fashionable top. The scenery in the photo includes fashionable sidewalks and shops. In the background, city buildings and pedestrians create a real urban atmosphere. The warm golden hour natural light softly illuminates the scene, adding a sophisticated and modern street style to the photo.
+
+这是一张混合媒体合成图像,一位22岁细节丰富,照片般逼真的写实中国女性网红正与经典的2D卡通渲染动画人物犬夜叉两人牵手站在上海外滩的路口,女子的形象写实，而犬夜叉则展现了其独特的动画艺术风格,两人自然地互动,女子面带自然可爱的微笑，直视镜头。姿势自然放松。她穿着一件女性化的服装，一条黑色荷叶边长裙搭配一件时尚上衣。照片中的风景包括时尚的人行道和商店。在背景中，城市建筑和行人营造出真实的城市氛围。温暖的黄金时段自然光柔和地照亮了场景，为照片增添了精致而现代的街头风格。
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e069fd81-b5aa-4dcc-9752-7f1439f4044d" />
+
+
 
 Roger Rabbit style photo. A 2D cartoon-rendered anime character Inuyasha holds hands with a detailed, photo-realistic 22-year-old Chinese female influencer with short black hair, standing at a street corner on the Bund in Shanghai, looking directly into the camera with a natural and cute smile. The pose is natural and relaxed. She is wearing a feminine outfit, a long black ruffled skirt paired with a stylish top. The scenery in the photo includes trendy sidewalks and shops. In the background, city buildings and pedestrians create an authentic urban atmosphere. The warm golden hour natural light softly illuminates the scene, adding a sophisticated and modern street style to the photo.
 
