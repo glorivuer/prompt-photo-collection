@@ -3,6 +3,13 @@
 portrait of a beautiful Japanese woman in her 20s, wearing stylish white fashion, white background with soft shadows, strong, confident gaze into the camera, 
 elegant pose, minimal yet high-end styling. fashion magazine aesthetic modern, bold, and refined, clean lighting with a touch of contrast, shot in the style of Piro the photographer, 
 high-resolution, editorial-quality photo, no text, sophisticated and impactful composition
+一位20多岁日本美女的肖像，身着时尚的白色时装，白色背景，柔和的阴影，坚定而自信地注视着镜头，
+姿势优雅，造型简约而高端。时尚杂志的审美现代、大胆、精致，干净的灯光带有一丝对比，以摄影师Piro的风格拍摄，
+高分辨率，编辑级品质的照片，无文字，构图精致而富有冲击力
+
+
+The two figures in the picture are singing "God Save the King," their gestures and bodies dancing to the song.
+图片中的两个人物正在歌唱God Save the King,手势和身型随着歌声舞动.
 
 
 好的，这里有几个为您精心设计的prompt建议，从简洁到详细，旨在帮助AI精准理解您的需求，生成一张既有《Vogue》杂志风格，又能完美保留照片中女士面部特征的封面。
