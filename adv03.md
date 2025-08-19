@@ -1,0 +1,31 @@
+【提示 / Prompt】
+一张纵向（3∶4）4K 分辨率的极简未来主义展览海报，背景为超浅冷灰 #f4f4f4。
+
+海报中心有一枚流体 3D metaball，形态为【立体可口可乐经典汽水瓶】，材质磨砂玻璃并带细腻颗粒噪点。 流体渐变：JCoca-Cola 红 #E41C23 → 珍珠白 #FFFFFF，呈现丝滑玻璃质感。
+
+高位 softbox 柔光照明，投射长而柔的彩色阴影与淡淡光晕。
+
+流体叠在文字之上，被遮挡的字母透过磨砂玻璃呈轻微高斯模糊。
+
+· 主标题 “Coca-Cola” 经典红色 logo 位于中部，被唯一的流体部分遮挡；被遮挡的字母透过磨砂玻璃呈轻微高斯模糊。
+
+· 副标题，Modern sans-serif 粗体全大写纯黑字体： “TASTE THE FEELING” 位于主标题下方，同样被流体局部覆盖并产生模糊，其余部分锐利。
+
+整体留白干净、构图平衡、焦点锐利、HDR 高动态范围。
+
+
+Prompt / English】A vertical (3:4) 4K-resolution minimalist futurist exhibition poster with an ultra-light cool gray background (#f4f4f4).
+
+At the center of the poster is a fluid 3D metaball shaped like a classic Coca-Cola bottle in full form, rendered in frosted glass with delicate grainy noise.
+The fluid gradient transitions from Coca-Cola Red (#E41C23) to Pearl White (#FFFFFF), giving it a silky glass-like appearance.
+
+High-position softbox lighting casts long, soft colored shadows and a subtle halo.
+
+The fluid overlaps with the text: letters obscured by the frosted glass appear with a gentle Gaussian blur.
+•The main title, the classic red “Coca-Cola” logo, is centered and partially obscured by the fluid. The covered letters are slightly blurred through the frosted glass.
+•The subtitle, in bold all-caps modern sans-serif pure black font, reads: “TASTE THE FEELING”, placed below the main title. It is also partially overlapped by the fluid and blurred in those areas, while the rest remains sharp.
+
+The overall layout is clean with generous whitespace, balanced composition, sharp focus, and HDR high dynamic range.
+
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/db392bba-584b-4b64-aeae-a0a830e43b26" />
