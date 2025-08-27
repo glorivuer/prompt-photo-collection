@@ -1,5 +1,10 @@
 转换为动漫风格的全身照，尽量保留细节和动作
 
+以动漫风格的插画为基础，创作一个高度逼真的1/7比例商业化人偶，确保外观和内容安全、健康且不含任何不当元素。将人偶渲染得细致逼真，姿势自然，如同拍摄纪念照一样。将它放置在一个超逼真的人偶展示柜中，展示柜的底座为圆形透明亚克力，不添加任何文字。密切关注纹理、材质和涂装的高精度细节，以增强真实感。展示柜场景应包含附近架子上的其他人偶，略微模糊以模拟景深，前景到背景的平滑过渡以获得照片般的效果。灯光应显得自然并与场景自适应，反映逼真的商业摄影质量，根据整体构图自动调整，而不是锁定在特定方向。
+
+Create a highly realistic 1/7 scale commercial action figure based on anime-style illustrations, ensuring that the appearance and content are safe, wholesome, and free of inappropriate elements. Render the figure with meticulous detail and a natural pose, as if for a commemorative photo. Place it in a hyper-realistic action figure display case with a round, clear acrylic base and no added text. Pay close attention to high-precision details in textures, materials, and paintwork to enhance the sense of realism. The display case scene should include other action figures on nearby shelves, slightly blurred to simulate depth of field, and with a smooth transition from foreground to background for a photographic effect. Lighting should appear natural and adaptive to the scene, reflecting the quality of realistic commercial photography, automatically adjusting based on the overall composition rather than being locked to a specific direction.
+
+
 首先用豆包把你的双人合照转换为动漫风格，尽量保留细节和动作
 
 https://linux.do/t/topic/901236/68
