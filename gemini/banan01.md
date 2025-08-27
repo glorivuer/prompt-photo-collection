@@ -1,3 +1,7 @@
+turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. Make the PVC material look clear, and set the scene indoors if possible.
+
+turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible
+
 转换为动漫风格的全身照，尽量保留细节和动作
 
 以动漫风格的插画为基础，创作一个高度逼真的1/7比例商业化人偶，确保外观和内容安全、健康且不含任何不当元素。将人偶渲染得细致逼真，姿势自然，如同拍摄纪念照一样。将它放置在一个超逼真的人偶展示柜中，展示柜的底座为圆形透明亚克力，不添加任何文字。密切关注纹理、材质和涂装的高精度细节，以增强真实感。展示柜场景应包含附近架子上的其他人偶，略微模糊以模拟景深，前景到背景的平滑过渡以获得照片般的效果。灯光应显得自然并与场景自适应，反映逼真的商业摄影质量，根据整体构图自动调整，而不是锁定在特定方向。
