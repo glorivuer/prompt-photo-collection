@@ -1,5 +1,6 @@
 最喜欢nano banana的地方是不仅人像保持一致，而且画面结构也可以完全不变，类似ControlNet的Depth和Canny的效果。
 https://x.com/Gorden_Sun/status/1960363442017390923?t=lkxTXnrS5w2qlx9UXCh_eA&s=19
+https://x.com/addyosmani/status/1960355631589912779?t=k5ewolooOka92n3pL6f5tA&s=19
 
 <img width="900" height="565" alt="image" src="https://github.com/user-attachments/assets/600f54f9-3dd3-4d06-ae5f-8e758deb1387" />
 
