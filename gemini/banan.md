@@ -1,4 +1,6 @@
 
+https://x.com/ai_for_success/status/1960345453758759071
+
 所以你可以通过手绘图精准控制多个角色打斗姿态！
 
 提示词：Have these two characters fight using the pose from Figure 3.Add appropriate visual backgrounds and scene interactions,Generated image ratio is 16:9
