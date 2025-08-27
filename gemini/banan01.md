@@ -2,6 +2,8 @@
 
 https://linux.do/t/topic/901236/68
 
+https://linux.do/t/topic/901236
+
 Create a highly realistic 1/7 scale commercialized figure featuring two adult characters together in a pose, based on an anime-style illustration, ensuring the appearance and content are safe, healthy, and free from any inappropriate elements. Render both figures in a detailed, lifelike style, positioned naturally as if taking a commemorative photo. Place them inside an ultra-realistic figure display cabinet on circular transparent acrylic bases (one for each figure or a shared base), without any text. Pay close attention to highly precise details in textures, materials, and paintwork to enhance realism. The cabinet scene should include other figures on nearby shelves, slightly blurred to simulate depth of field, with a smooth foreground-to-background transition for a photographic look. Lighting should appear natural and adaptive to the scene, reflecting realistic commercial photography quality, automatically adjusting based on the overall composition instead of being locked to a specific direction.
 
 最后淘宝花5块钱（实际为4200）打印出来，送给基友，祝福他们！ :laughing:
