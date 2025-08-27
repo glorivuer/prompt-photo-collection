@@ -1,3 +1,30 @@
+
+所以你可以通过手绘图精准控制多个角色打斗姿态！
+
+提示词：Have these two characters fight using the pose from Figure 3.Add appropriate visual backgrounds and scene interactions,Generated image ratio is 16:9
+<img width="782" height="900" alt="image" src="https://github.com/user-attachments/assets/8f12faf3-fcdc-40ed-8609-b19e61bb1f3c" />
+
+
+除了可以从照片生成穿搭平铺图以外，你可以可以直接预览自己穿上对应穿搭的样子
+
+ID 保持的非常好，提示词：The character in Figure 2 is wearing the clothing and accessories from Figure 1.
+<img width="600" height="680" alt="image" src="https://github.com/user-attachments/assets/7c3a8f2b-f7aa-4650-8877-a9897c55b199" />
+
+
+<img width="405" height="680" alt="image" src="https://github.com/user-attachments/assets/dcfba1e4-6469-4076-b431-87fe3bddc86f" />
+
+<img width="680" height="389" alt="image" src="https://github.com/user-attachments/assets/846e8263-ff6a-42fd-8dc3-1870b9815560" />
+
+
+
+
+
+
+The woman in Figure 2 is wearing the necklace from Figure 1,Do not change the details of other Figure 2.
+
+<img width="679" height="332" alt="image" src="https://github.com/user-attachments/assets/9b80d259-3e35-4e34-ada6-0e5d24ea502d" />
+
+
 Help me turn the character into a white outline sticker similar to Figure 2. The character needs to be transformed into a web illustration style, and add a playful white outline short phrase describing Figure 1.
 <img width="900" height="519" alt="image" src="https://github.com/user-attachments/assets/4747d5e2-3f1f-4ff1-8553-ef73ff2053c8" />
 <img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/6131871f-d65b-4632-a586-d1f01d7c3726" />
