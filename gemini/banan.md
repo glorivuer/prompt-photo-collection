@@ -1,3 +1,7 @@
+“Please create a scene like a commercial where the woman in the first image introduces the product in the second image”
+<img width="900" height="592" alt="image" src="https://github.com/user-attachments/assets/77e37c66-e5eb-4103-a5b7-b5597e6137ed" />
+
+
 
 https://x.com/ai_for_success/status/1960345453758759071
 
