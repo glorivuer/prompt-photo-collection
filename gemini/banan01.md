@@ -1,3 +1,16 @@
+Use the nano-banana model to create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text.On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.
+https://x.com/YunFeng_cc/status/1960595387716112555
+<img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/3f760616-3329-42c2-8fd1-da1b9551b951" />
+<img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/39a44cbe-3d95-4e41-88e1-05d45a892c5f" />
+<img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/80753552-09e5-49d9-8694-25017bf7caf4" />
+<img width="325" height="680" alt="image" src="https://github.com/user-attachments/assets/4e027955-4d82-4e3e-ad6b-d8ac9a6cffcd" />
+
+
+
+
+
+
+
 turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. Make the PVC material look clear, and set the scene indoors if possible.
 
 turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible
