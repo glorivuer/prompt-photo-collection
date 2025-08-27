@@ -14,6 +14,10 @@ PS：，建模1200一个人物，建模很贵，打印上色900一个人物
 
 <img width="427" height="750" alt="image" src="https://github.com/user-attachments/assets/fcfcd384-bac4-4975-b425-2718fc9a632c" />
 
+
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/226fd0de-6c49-4bdd-b023-e2582cc1bf8d" />
+
+
 可以看到对于现实光照的理解很好，基本没有露馅的地方，发丝与阴影等细节也十分真实，谷歌王朝了（x）
 
 以下是prompt，是根据我近几天的深入使用配合gpt5-chat做出来的，应该是目前可以找到的最优秀的一版
