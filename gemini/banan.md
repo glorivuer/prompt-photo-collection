@@ -1,3 +1,9 @@
+Help me turn the character into a white outline sticker similar to Figure 2. The character needs to be transformed into a web illustration style, and add a playful white outline short phrase describing Figure 1.
+<img width="900" height="519" alt="image" src="https://github.com/user-attachments/assets/4747d5e2-3f1f-4ff1-8553-ef73ff2053c8" />
+<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/6131871f-d65b-4632-a586-d1f01d7c3726" />
+
+
+
 
 
 <img width="545" height="531" alt="image" src="https://github.com/user-attachments/assets/abd4e177-356b-49ac-84e6-db0a4e8d18ad" />
