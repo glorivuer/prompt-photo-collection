@@ -1,6 +1,19 @@
 根据用户提供的附件的提供9种不同的发型设计，输出在一张照片，可以特写不同的发型进行展示
 <img width="900" height="657" alt="image" src="https://github.com/user-attachments/assets/b58a8b98-764d-403a-93d1-2213c355d642" />
 
+Make me look like I am in the 1920s in China.. Change my fashion, hairstyle and background
+
+Make me look like I am in the Qing Dynasty in China.. Change my fashion, hairstyle and background
+
+Make me look like I am in the Song Dynasty in China.Ensure facial details. Change my fashion, hairstyle and background
+Song Dynasty
+
+Make me look like I am in the Ming Dynasty in China. Ensure facial details. Change my fashion, hairstyle and background
+
+Make me look like I am in the 1920s in India.. Change my fashion, hairstyle and background
+Ming Dynasty
+
+
 
 https://www.pinterest.com/pin/13440498883773501/
 图一人物换成图二姿势，摄影棚拍摄
