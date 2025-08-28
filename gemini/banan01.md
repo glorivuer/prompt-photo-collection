@@ -1,3 +1,9 @@
+Generate a photo of a girl cosplaying this illustration, with the background set at Comiket
+
+使用纳米香蕉模型，以写实风格和环境，尽量保留细节和动作,创建插画中人物的1/7比例商业化手办。将手办放置在电脑桌上，使用圆形透明亚克力底座，底座上不带任何文字。在电脑屏幕上，展示手办的ZBrush建模过程。在电脑屏幕旁，放置一个印有原图的BANDAI风格玩具包装盒。
+Using the Nano Banana model, I created a 1/7 scale commercial figure of the character from the illustration, using a realistic style and environment, preserving as much detail and movement as possible. The figure was placed on a computer desk, using a round, transparent acrylic base with no text. The ZBrush modeling process was displayed on the computer screen. Next to the screen, a Bandai-style toy box with the original image printed on it was placed.
+
+
 Use the nano-banana model to create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text.On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.
 https://x.com/YunFeng_cc/status/1960595387716112555
 <img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/3f760616-3329-42c2-8fd1-da1b9551b951" />
