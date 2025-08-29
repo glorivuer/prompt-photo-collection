@@ -2,6 +2,9 @@
 https://x.com/Gorden_Sun/status/1960363442017390923?t=lkxTXnrS5w2qlx9UXCh_eA&s=19
 https://x.com/addyosmani/status/1960355631589912779?t=k5ewolooOka92n3pL6f5tA&s=19
 
+<img width="900" height="528" alt="image" src="https://github.com/user-attachments/assets/6bcc9a41-028c-4b23-ab5e-f8714b84d77b" />
+
+
 <img width="708" height="671" alt="image" src="https://github.com/user-attachments/assets/02b8f810-0435-4904-88b1-b2b92adc6fc5" />
 
 
