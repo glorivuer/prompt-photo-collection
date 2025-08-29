@@ -10,6 +10,11 @@ https://otokonoizumi.github.io/Diary/nano_secret_v4
 ***姿势与构图：身体姿势、面部朝向和构图严格参照Image 2。***
 ***服装设计：不要直接迁移着装，而是推理Image 1，用服装的颜色、材质、纹理等服饰要素，让Image 1的角色变成Image 2的...***
 
+
+手办生成优化
+Create an indoor scene featuring a high-quality PVC character figure based on a provided photo. The figure is a full-body, anime-style model with a 8-head-to-body ratio, standing in a same dynamic yet elegant pose. with intricate details reflecting the character's outfit and features from the photo. The figure stands on a round plastic base with a subtle design, The base is crafted from clear, glossy PVC material...
+
+
 第二次尝试成功的原因是您的反馈精准地解决了这个问题:
 您明确指出:
 *“图1提供的是角色,服饰要素”
