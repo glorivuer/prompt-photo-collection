@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=iym4ZoJzi90
+
+
+
+图片中的年轻女子望着镜头并演示麦当劳的食品，语音真诚微笑着以中文说:“奉天承运，疯狂星期五 ，牡丹楼今日特价啦”!
+画面中有自然的光影变化,镜头逐渐推进,脸部表情自然，口型与中文语音同步
+配乐使用维瓦地的四季中的秋
+[Music:Vivaldi The four seasons Spring]
+
+She speaks in clear Mandarin with a confident, ethereal tone: "Google VEO 3終於台灣可以用了!"with perfect lip-sync.
+
+
+She speaks in clear Mandarin with a confident, ethereal tone:
+
+
+The young woman in the photo looks at the camera and demonstrates McDonald's food. With a sincere smile, She speaks in clear Mandarin with a confident, ethereal tone: "奉天承运,疯狂星期五,牡丹楼今日特价啦!" with perfect lip-sync.
+The image features natural shifts in light and shadow, with the camera gradually zooming in. The woman's facial expressions are natural.[Music:Vivaldi The four seasons Spring]
