@@ -3,6 +3,10 @@ nano-banana's Higgsfield
 
 https://x.com/heyglif/status/1961200373991145910
 
+
+<img width="729" height="900" alt="image" src="https://github.com/user-attachments/assets/128a7c32-3c3c-4d31-8ced-01f57bfca7d8" />
+
+
 1 附件图片生成 ultra4
 8格网格布局，每个格子之间有清晰的网格线分隔：
 图中都是麦当劳的产品
