@@ -1,3 +1,6 @@
+nano-banana's Higgsfield
+"Swap-to-Video" is crazy.  https://x.com/Fujin_Metaverse/status/1961056362194141468
+
 https://x.com/heyglif/status/1961200373991145910
 
 1 附件图片生成 ultra4
