@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=iym4ZoJzi90
+https://www.youtube.com/watch?v=9nVEfjmDlVk
 
 
 
@@ -15,3 +16,5 @@ She speaks in clear Mandarin with a confident, ethereal tone:
 
 The young woman in the photo looks at the camera and demonstrates McDonald's food. With a sincere smile, She speaks in clear Mandarin with a confident, ethereal tone: "奉天承运,疯狂星期五,牡丹楼今日特价啦!" with perfect lip-sync.
 The image features natural shifts in light and shadow, with the camera gradually zooming in. The woman's facial expressions are natural.[Music:Vivaldi The four seasons Spring]
+
+
