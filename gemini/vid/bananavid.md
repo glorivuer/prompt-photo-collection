@@ -7,6 +7,13 @@ https://x.com/heyglif/status/1961200373991145910
 <img width="729" height="900" alt="image" src="https://github.com/user-attachments/assets/128a7c32-3c3c-4d31-8ced-01f57bfca7d8" />
 
 
+We generated a grid image using Qwen and used the prompt: 
+"8-panel grid layout with clear grid lines separating each  square: Panel 1) white silk blouse centered on pure white background,  Panel 2) designer sunglasses centered on pure white background, Panel 3)  black leather skirt centered on pure white background, Panel 4)  luxurious mansion ballroom with marble columns and crystal chandelier,  Panel 5) black high heels centered on pure white background, Panel 6)  Bengal tiger centered on pure white background, Panel 7) gold statement  necklace centered on pure white background, Panel 8) elegant woman  portrait centered on pure white background. Each item distinctly  separated in its own individual grid square, professional product  photography."
+
+Then we gave it to Nano and prompted this: 
+"Remove the grid lines and combine all these items into one cohesive  luxury lifestyle image. Show the elegant woman wearing the white silk  blouse, black leather skirt, black high heels, gold statement necklace,  and designer sunglasses. Have her posing confidently and coolly leaning  against the Bengal tiger in a relaxed, fashionable pose. Set this in the  luxurious mansion ballroom setting. Create a seamless, high-fashion  portrait without any grid divisions, emphasizing the cool bond between  woman and tiger."
+
+
 1 附件图片生成 ultra4
 8格网格布局，每个格子之间有清晰的网格线分隔：
 图中都是麦当劳的产品
