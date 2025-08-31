@@ -5,3 +5,9 @@ Banana 应用实践： 1️⃣教学展示
 
 <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/3f02f662-4a9b-4286-a682-cea04902ecc8" />
 
+
+绘制一幅这个ESP32-DevKitC电路板工作原理的3D立体剖面设计图，以高度还原的方式精细呈现其内部结构。每个零部件被拆解并有序排列，各部分均配有清晰英文标注。 Google真是想把这个传统的教育体系也冲垮了
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/51e0cf86-9268-4a31-81f8-4464bb943907" />
+
+
