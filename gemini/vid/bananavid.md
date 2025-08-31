@@ -1,5 +1,10 @@
+
+https://x.com/How2use_AI/status/1961449421066875348
+
 nano-banana's Higgsfield
-"Swap-to-Video" is crazy.  https://x.com/Fujin_Metaverse/status/1961056362194141468
+"Swap-to-Video" is crazy.  
+
+https://x.com/Fujin_Metaverse/status/1961056362194141468
 
 https://x.com/heyglif/status/1961200373991145910
 
