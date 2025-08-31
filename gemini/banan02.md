@@ -1,3 +1,11 @@
+
+Transform the person in the photo into highly stylized ultra-realistic portrait, with sharp facial features and flawless fair skin, standing confidently against a bold green gradient background. Dramatic, cinematic lighting highlights her facial structure, evoking the look of a luxury fashion magazine cover. Editorial photography style, high-detail, 4K resolution, symmetrical composition, minimalistic background
+
+<img width="723" height="900" alt="image" src="https://github.com/user-attachments/assets/0251f19e-c047-4118-9b04-9f673457f41b" />
+
+
+
+
 最喜欢nano banana的地方是不仅人像保持一致，而且画面结构也可以完全不变，类似ControlNet的Depth和Canny的效果。
 https://x.com/Gorden_Sun/status/1960363442017390923?t=lkxTXnrS5w2qlx9UXCh_eA&s=19
 https://x.com/addyosmani/status/1960355631589912779?t=k5ewolooOka92n3pL6f5tA&s=19
