@@ -1,3 +1,16 @@
+将图片中角色转换为3D PVC人偶，保留角色的设计、姿势和表情。重点关注光滑的塑料材质、服装等的精细细节、工作室灯光以及黑色展示底座。
+
+Transform the character in the picture into a 3D PVC figure, preserving the character's design, pose, and expression. Focus on the smooth plastic material, fine details such as clothing, studio lighting, and black display base.
+
+
+A highly detailed 3D rendered PVC figure of a cute anime girl. She is wearing a Japanese school uniform: a white short-sleeved top with a grey sailor collar and red tie, and a grey skirt. She has short brown hair with bangs and a cheerful, wide open smile, showing her teeth. Her right hand is raised making a peace sign, and her left hand rests on her left leg. She wears grey and brown fingerless gloves and futuristic-looking grey and brown shin guards/boots, with headphones around her neck. The figure has a smooth plastic texture with a matte finish on the fabric and subtle gloss on skin and hair. Presented on a simple black circular display base with studio lighting on a plain light grey background.
+一个精致的3D渲染PVC人偶，描绘了一个可爱的动漫女孩。她身着日本校服：白色短袖上衣，灰色水手领，系着红色领带，下身搭配灰色裙子。她留着棕色短发，略带刘海，笑容灿烂，露出一口灿烂的牙齿。她举起右手，做出“和平”的手势，左手放在左腿上。她戴着灰棕色的露指手套，脚穿充满未来感的灰棕色护腿板/靴子，脖子上戴着耳机。人偶采用光滑的塑料材质，面料为哑光饰面，皮肤和头发则带有微妙的光泽。人偶摆放在一个简洁的黑色圆形展示底座上，在工作室灯光下，背景为浅灰色。
+
+
+
+
+
+
 Generate a photo of a girl cosplaying this illustration, with the background set at Comiket
 
 使用纳米香蕉模型，以写实风格和环境，尽量保留细节和动作,创建插画中人物的1/7比例商业化手办。将手办放置在电脑桌上，使用圆形透明亚克力底座，底座上不带任何文字。在电脑屏幕上，展示手办的ZBrush建模过程。在电脑屏幕旁，放置一个印有原图的BANDAI风格玩具包装盒。
