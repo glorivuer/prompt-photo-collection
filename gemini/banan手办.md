@@ -2,7 +2,11 @@
 
 Transform the character in the picture into a 3D PVC figure, preserving the character's design, pose, and expression. Focus on the smooth plastic material, fine details such as clothing, studio lighting, and black display base.
 
+全身人物，盒装人物模型，写实人物模型盒，旁边是未装盒的人物模型
+Full-body figure, boxed figure, realistic figure box, and unboxed figure next to it
+
 https://note.com/munou_ac/n/n88c01d6dd5b8
+https://x.com/munou_ac/status/1962490861520044101  https://x.com/munou_ac/status/1962511260626633037
 
 
 A highly detailed 3D rendered PVC figure of a cute anime girl. She is wearing a Japanese school uniform: a white short-sleeved top with a grey sailor collar and red tie, and a grey skirt. She has short brown hair with bangs and a cheerful, wide open smile, showing her teeth. Her right hand is raised making a peace sign, and her left hand rests on her left leg. She wears grey and brown fingerless gloves and futuristic-looking grey and brown shin guards/boots, with headphones around her neck. The figure has a smooth plastic texture with a matte finish on the fabric and subtle gloss on skin and hair. Presented on a simple black circular display base with studio lighting on a plain light grey background.
