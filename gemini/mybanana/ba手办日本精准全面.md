@@ -1,4 +1,4 @@
-***◆基本要求：无包装***
+***◆基本要求：无包装***  https://x.com/munou_ac/status/1961703678303506681
 Transform this illustration into a photorealistic PVC anime figure. 
 Keep the original character’s design, pose, and colors exactly the same. 
 Render it as a collectible figurine made of PVC plastic, with realistic painted surface and detailed shading. 
@@ -124,3 +124,25 @@ Nano Banana 生成的图片尺寸似乎会受到参考图片长宽比的影响�
 由于此提示框假设的是像目录照片一样放置人物的场景，因此我没有指定细节（这会增加扭蛋元素并降低通用性）。
 
 如果有需求，我还会分享一些关于“放在玻璃柜里”、“在商店里陈列”、“在展览会上”、“在电脑显示器前”等场景的提示。
+
+The image used in the logo is here.
+
+Both are transparent PNGs, but I think it's probably fine even if they are not transparent.
+If the aspect ratio of the logo differs from that of the first image, it will end up like the example.
+
+When the aspect ratio is 1:1.
+
+When the aspect ratio is 4:3.
+
+I tried instructing Nano Banana with a prompt to generate images with a specific aspect ratio, but I couldn't do it exactly as instructed at all. If anyone knows a reproducible method, please let me know.
+
+徽标使用的图片在这里。
+
+两张图片都是透明的 PNG 格式，但我认为即使不透明也应该没问题。
+如果徽标的宽高比与第一张图片不同，最终效果会像示例中那样。
+
+宽高比为 1:1 时。
+
+宽高比为 4:3 时。
+
+我尝试使用提示符指示 Nano Banana 生成具有特定宽高比的图片，但完全无法完全按照指示操​​作。如果有人知道可重现的方法，请告诉我。
