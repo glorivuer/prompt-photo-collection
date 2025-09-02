@@ -1,4 +1,10 @@
 
+Stretch your arms out a little (selfie style), create a frame with your fingers, and place your face inside it.
+Extend your arm a little (selfie style)... If I don't include this, I'll end up making a finger frame around my face lol
+<img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/a3c93ccd-f95a-4e4b-a168-dee880c7a33f" />
+
+
+
 Pose control with nano-banana is shockingly good.
 
 Upload characters + a sketch of a pose and ask to combine.
