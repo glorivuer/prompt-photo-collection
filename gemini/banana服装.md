@@ -1,4 +1,7 @@
 
+Prompt : A photorealistic image of a young Asian woman wearing a pink tiered sundress, standing in front of a vibrant pink bougainvillea wall. The scene should be cohesive and sunlit, with no other elements like separate blocks of dresses or backgrounds visible.
+<img width="1079" height="1320" alt="image" src="https://github.com/user-attachments/assets/c4188ff8-3cf6-4f65-a2a9-27f689ef352e" />
+
 
 A fashion mood board collage. Surround a portrait with cutouts of the individual items the model is wearing. Add handwritten notes and sketches in a playful, marker-style font, and include the brand name and source of each item in English. The overall aesthetic should be creative and cute.
 时尚情绪板拼贴画。用模特所穿单品的剪纸图案围绕肖像画。用俏皮的马克笔字体添加手写笔记和草图，并用英文标注每件单品的品牌名称和来源。整体美感应该兼具创意和可爱。
