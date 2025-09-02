@@ -1,3 +1,13 @@
+
+
+A fashion mood board collage. Surround a portrait with cutouts of the individual items the model is wearing. Add handwritten notes and sketches in a playful, marker-style font, and include the brand name and source of each item in English. The overall aesthetic should be creative and cute.
+时尚情绪板拼贴画。用模特所穿单品的剪纸图案围绕肖像画。用俏皮的马克笔字体添加手写笔记和草图，并用英文标注每件单品的品牌名称和来源。整体美感应该兼具创意和可爱。
+
+<img width="1925" height="1090" alt="image" src="https://github.com/user-attachments/assets/f1ac8213-78c9-45c3-bb2f-0dcf389ae4f8" />
+
+
+
+
 **分析机构正月入场特辑：为我完成一整套七大风格 OOTD 整体（穿搭）**
 
 **引言**
