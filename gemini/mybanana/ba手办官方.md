@@ -10,3 +10,7 @@ The packaging features two-dimensional flat illustrations.
 电脑屏幕上的内容是该手办的3D建模过程。
 电脑屏幕旁边是一个玩具包装盒，其设计风格类似高品质收藏级手办，并印有原创插图。
 包装盒采用二维平面插画。
+
+creates 3D-printable bobbleheads of yourself?  
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/e2642ce7-da9c-4f1a-a95a-8a5a382adba0" />
+
