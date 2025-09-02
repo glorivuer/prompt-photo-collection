@@ -8,7 +8,8 @@ Place the figure on a simple round display base, with a soft shadow cast beneath
 Use a neutral studio background, professional studio lighting, sharp focus, shallow depth of field, 
 as if photographed for a catalog. 
 
-With this basic prompt, you can generate an illustration of just the character on the base figure-ized.
+
+// With this basic prompt, you can generate an illustration of just the character on the base figure-ized.
 
 ◆带包装
 ◆With Package
