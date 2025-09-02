@@ -1,4 +1,6 @@
 Generate an image of a coca-cola polar-bear.
+https://www.worldofcoca-cola.com/explore-inside/explore-coca-cola-polar-bear
+
 
 
 ”adjust the lighting and the camera position to make it a natural shot”
