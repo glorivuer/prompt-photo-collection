@@ -1,5 +1,7 @@
 
 Prompt : A photorealistic image of a young Asian woman wearing a pink tiered sundress, standing in front of a vibrant pink bougainvillea wall. The scene should be cohesive and sunlit, with no other elements like separate blocks of dresses or backgrounds visible.
+一张写实风格的图片，一位年轻的亚洲女性身着粉色层叠太阳裙，站在一面鲜艳的粉色三角梅墙前。场景应整体协调，阳光明媚，不应有任何杂乱的裙摆或背景等元素。
+
 <img width="1079" height="1320" alt="image" src="https://github.com/user-attachments/assets/c4188ff8-3cf6-4f65-a2a9-27f689ef352e" />
 
 
