@@ -1,7 +1,6 @@
 确定大小
-Transform this illustration into a realistic, full-body PVC figure. The figure occupies four-fifths the size of the image, preserving the original character's design, pose, and colors. Render it as a collectible figure made of PVC plastic, applying a realistic paint finish and adding detailed shading. Add glossy highlights to areas like the hair and clothing, a matte finish to the skin, and subtle seam lines similar to those found on a real figure. Place the figure on a solid black, round display base supported by a simple, transparent rod, casting a soft shadow underneath. Use a neutral-colored studio background, professional studio lighting, a sharp focus on the figure, and a shallow depth of field, just like a catalog shoot.
-The box, containing a plastic blister pack, can be seen in the background.
-
+This illustration was transformed into a realistic, full-body PVC figure of anime characters. The figure, 4/5 the size of the image, retains the original character's design, pose, and colors. It was rendered as a collectible figure made of PVC plastic, painted realistically and detailed with shading. Glossy highlights were added to areas like the hair and clothing, a matte finish was applied to the skin, and subtle seam lines were added, similar to those found on a real figure. The figure was placed on a plain black, round display base supported by a simple, transparent rod. The base featured a very small white Nano Banana text circle, casting a soft shadow underneath. A neutral studio background, professional studio lighting, a sharp focus on the figure, and a shallow depth of field were used, as if shooting for a catalog.
+The box with the text "Elvelyn Made" can be seen in the background, and inside is a plastic blister containing the figure.
 
 
 
