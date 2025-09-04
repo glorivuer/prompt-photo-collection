@@ -9,6 +9,7 @@ Use a neutral studio background, professional studio lighting, sharp focus, shal
 as if photographed for a catalog. 
 
 
+
 // With this basic prompt, you can generate an illustration of just the character on the base figure-ized.
 
 ◆带包装
