@@ -1,3 +1,12 @@
+确定大小
+Transform this illustration into a realistic, full-body PVC figure. The figure occupies four-fifths the size of the image, preserving the original character's design, pose, and colors. Render it as a collectible figure made of PVC plastic, applying a realistic paint finish and adding detailed shading. Add glossy highlights to areas like the hair and clothing, a matte finish to the skin, and subtle seam lines similar to those found on a real figure. Place the figure on a solid black, round display base supported by a simple, transparent rod, casting a soft shadow underneath. Use a neutral-colored studio background, professional studio lighting, a sharp focus on the figure, and a shallow depth of field, just like a catalog shoot.
+The box, containing a plastic blister pack, can be seen in the background.
+
+
+
+
+
+
 ***◆基本要求：无包装***  https://x.com/munou_ac/status/1961703678303506681
 Transform this illustration into a photorealistic PVC anime figure. 
 Keep the original character’s design, pose, and colors exactly the same. 
