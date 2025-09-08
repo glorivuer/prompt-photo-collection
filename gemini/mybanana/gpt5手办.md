@@ -1,3 +1,7 @@
+A photorealistic portrait of the character, seated at a desk in a modern, minimalist, luxurious advertising studio. She holds a lifelike, full-body PVC figure of the character, four-fifths the size of the original image, preserving the original character's design, pose, and coloring. It is rendered as a collectible figure made of PVC plastic, realistically painted, and with added shading details. Highlights have been added to areas like hair and clothing, while the skin has been given a matte finish, with subtle seams added to resemble the real figure. Warm, comfortable lighting, commercial style, shallow depth of field, and no additional text. Aspect ratio 3:4.
+[人物] 的照片级写实肖像，位于一间现代简约奢华的广告工作室中，坐在办公桌旁。手持一个逼真的全身PVC[人物] 手办，该手办尺寸为原图的五分之四，保留了原作[人物] 的设计、姿势和色彩。它被渲染成一个由PVC塑料制成的收藏品手办，涂装逼真，并添加了阴影细节。头发和衣服等部位添加了高光，皮肤则采用了哑光处理，并添加了类似于真实手办的细微接缝线。温暖舒适的灯光，商业风格，浅景深，无额外文字。宽高比 3:4。
+
+
 Photoreal studio photo of a glossy vinyl-toy figurine of [CHARACTER], standing on a clear round acrylic base on a wooden desk. 
 The entire background is a computer monitor filling the frame, showing a 3D-modeling software interface with a clean yellow wireframe line drawing of the same [CHARACTER] on a perspective grid (no shading, just lines). 
 Slightly stylized, smooth plastic surfaces with crisp reflections, subtle toy seams, signature pose. Soft diffused lighting, 85mm look, shallow depth, ultra-clean, no extra props or text. 
