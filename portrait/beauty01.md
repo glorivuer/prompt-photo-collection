@@ -1,4 +1,7 @@
 
+A tall, slender woman stands in a narrow, minimalist hallway indoors, captured from a low angle. She wears a tight, black, off-the-shoulder mini dress, sheer black tights, and black high-heeled sandals. In one hand, she holds a black handbag and in the other, a glass of champagne. Her long, straight hair flows naturally down her back. Bright, soft, diffused light casts subtle shadows on the walls, highlighting her silhouette. The setting features a classic black paneled door, light beige walls, and soft gray carpet. The camera angle is low, tilted slightly upward, to emphasize the length of her legs and the proportions of her body, which reflect haute couture proportions (approximately eight heads tall). The professionally edited image, with high contrast and clean color grading, evokes a luxury fashion campaign.
+
+
 以后发布的海报都这么发吧哈哈哈哈哈
 
 提示词给你们了，英文的，别说是我给的
