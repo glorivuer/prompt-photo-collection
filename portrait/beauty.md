@@ -11,6 +11,9 @@ high-resolution, editorial-quality photo, no text, sophisticated and impactful c
 The two figures in the picture are singing "God Save the King," their gestures and bodies dancing to the song.
 图片中的两个人物正在歌唱God Save the King,手势和身型随着歌声舞动.
 
+Portray a femme fatale sitting in a dimly lit bar as a still from a Neo-Noir film. Emphasize moody atmospheres with grainy textures and soft lighting. The scene should be primarily in black and white, enhanced by minimalistic usage of ruby red and ebony to create depth
+
+
 
 好的，这里有几个为您精心设计的prompt建议，从简洁到详细，旨在帮助AI精准理解您的需求，生成一张既有《Vogue》杂志风格，又能完美保留照片中女士面部特征的封面。
 
