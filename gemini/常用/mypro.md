@@ -1,3 +1,8 @@
+
+
+根据 角色 (Role),示例 (Examples) ,背景 (Context) ,风格 (Style) ,格式 (Format) 这5个步骤分析这张图片的prompt ,并确保prompt可以生成不违反ai的安全规范.
+
+
 a 3D Q version Pixar style cute smile leopard avatar
 
 Prompt: turn me into a caricature. Make it funny.  把我变成一幅漫画。让它变得有趣。
