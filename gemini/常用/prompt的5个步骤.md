@@ -1,3 +1,7 @@
+imagen ultra
+Generate an ultra-high-resolution photo of a movie scene,portrait of a beautiful Japanese woman in her 20s,  wearing a stylish light blue one-piece bodysuit with subtle gold patterns, lace-trimmed over-the-knee stockings. She has a gentle expression, looking forward. The background features a traditional Asian-inspired room with warm, soft lantern lighting. Highly detailed, high quality, elegant, soft shadows.
+
+
 
 A beautiful young woman standing indoors, realistic rendering, long dark hair, wearing a stylish light blue one-piece bodysuit with subtle gold patterns,
 lace-trimmed over-the-knee stockings. She has a gentle expression, looking forward. The background features a traditional Asian-inspired room with warm,
