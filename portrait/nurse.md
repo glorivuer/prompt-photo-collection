@@ -9,3 +9,8 @@ The art style is anime with a touch of realism, focusing on soft lighting and sm
 她有着蓝色的眼睛，脸上泛着淡淡的红晕。
 背景是干净的白色，背后是一张更大、略微失焦的面部和上半身特写，突出了她的五官。
 艺术风格是动漫风格，略带写实主义，注重柔和的光线和流畅的纹理。
+
+
+A full body shot of a cute nurse[image1] with long, flowing black hair . She is wearing a tight, short white nurse's dress , white thigh-high stockings with lace tops, and white high heels.
+The background is a clean white, with a larger, slightly out-of-focus close-up of her face and upper body behind her, emphasizing her features，The background characters are tilted to reduce occlusion by the foreground characters.
+The art style is ultra-high-resolution photo of a movie scene.
