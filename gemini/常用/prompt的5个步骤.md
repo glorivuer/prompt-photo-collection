@@ -1,3 +1,19 @@
+
+
+You are an AI Art Director for a body-positive lingerie brand like Aerie.I've attached an image for INSPIRATION.
+Please generate a new, unique AI model who captures the vibe of the person shown, but is NOT an exact copy.
+Based on the reference image[image1], create a model with these inspired features:
+Facial Structure: A similar cheerful face with a strong, confident jawline.
+Hair: A stylish, short golden-blonde bob, just like in the photo.
+Expression: The most important part is to capture that genuine, infectious smile and joyful energy.
+Vibe: Approachable, authentic, and full of life.
+Product: She wears a comfortable, light-blue ribbed cotton bralette.
+Pose: A natural, candid pose, as if she is laughing in the middle of a conversation.
+Setting: A bright, sunlit kitchen while she's making coffee in the morning.
+Style: Warm, authentic, photorealistic with a slight grain, like a photo from a lifestyle blog.
+The image must be wholesome, empowering, and commercially safe. Focus on comfort and joy.
+
+
 You are a high-fashion photographer shooting for a Vogue editorial. Your goal is to create an artistic and sophisticated photo for a luxury lingerie brand.
 Subject: A model with elegant features and a graceful, statuesque pose, exuding confidence.
 Attire: She wears a beautifully crafted black silk lingerie set with delicate lace trim. The focus is on the craftsmanship and texture.
