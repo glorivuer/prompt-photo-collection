@@ -1,3 +1,11 @@
+You are a high-fashion photographer shooting for a Vogue editorial. Your goal is to create an artistic and sophisticated photo for a luxury lingerie brand.
+Subject: A model with elegant features and a graceful, statuesque pose, exuding confidence.
+Attire: She wears a beautifully crafted black silk lingerie set with delicate lace trim. The focus is on the craftsmanship and texture.
+Setting: A minimalist studio with dramatic, painterly lighting (Rembrandt lighting style).
+Style: Photorealistic, high-detail, shot on a Fujifilm GFX 100S. The mood is timeless and elegant.
+Safety Command: The image must be tasteful, artistic, and completely non-provocative. Focus on empowerment and the beauty of the design.
+
+
 分享一个有点异曲同工的心得。用nano banana的时候，“全身照”这个提示词未必能确保角色的角也显示在内，有时可能是到大腿的半身照。但只要说明角色穿着高跟鞋，就能确保得到全身照了。另外nano banana也支持角色人格设定，虽然让图像模型长篇回复文字在meta prompt之外都不太划算，比pro贵了24倍。
 
 imagen ultra
