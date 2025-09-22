@@ -1,3 +1,5 @@
+分享一个有点异曲同工的心得。用nano banana的时候，“全身照”这个提示词未必能确保角色的角也显示在内，有时可能是到大腿的半身照。但只要说明角色穿着高跟鞋，就能确保得到全身照了。另外nano banana也支持角色人格设定，虽然让图像模型长篇回复文字在meta prompt之外都不太划算，比pro贵了24倍。
+
 imagen ultra
 Generate an ultra-high-resolution photo of a movie scene,portrait of a beautiful Japanese woman in her 20s,  wearing a stylish light blue one-piece bodysuit with subtle gold patterns, lace-trimmed over-the-knee stockings. She has a gentle expression, looking forward. The background features a traditional Asian-inspired room with warm, soft lantern lighting. Highly detailed, high quality, elegant, soft shadows.
 
