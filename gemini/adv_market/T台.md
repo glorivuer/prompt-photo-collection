@@ -41,6 +41,10 @@ Camera / Angle
 - Dynamic composition creates a powerful effect.
 
 
+<img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/398d1d12-1a21-40e2-aace-0cab02c70893" />
+
+
+
 插画处理
 去除背景，将角色形象转化为COSPLAY角色。（基于插画数据重塑角色形象，打造逼真的COSPLAY角色，面部表情和服装细节均高度还原。*角色性别和服装风格与原插画保持一致，不会过度变形。）
 
