@@ -4,7 +4,7 @@
 ③ 使用纳米香蕉“绘制宁静的假日厨房作为背景”。
 ④ 使用“和谐”。
 
-根据 角色 (Role)、示例 (Examples)、背景 (Context)、服装 (Clothing)、风格 (Style) 和 格式 (Format) 这六个步骤，详细分析这张图片，并构建一个安全、有效且能生成高质量相似图像的 AI Prompt。
+根据 角色 (Role)、示例 (Examples)、背景 (Context)、服装 (Clothing)、风格 (Style) 和 构图 这六个步骤，详细分析这张图片，并构建一个安全、有效且能生成高质量相似图像的 AI Prompt。
 
 a 3D Q version Pixar style cute smile leopard avatar
 
