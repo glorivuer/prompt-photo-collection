@@ -1,3 +1,8 @@
+A young Asian woman[image1 ,face 100% match],  sitting gracefully on stone steps outdoors. She is wearing a delicate floral print mini-dress, a soft beige knit cardigan, cream-colored knee-high socks, and light brown loafers. A small beige handbag rests beside her. She is looking gently to the side with a sweet expression. The background features a subtle, blurred street scene with a wooden door, hints of green foliage, and scattered autumn leaves on the ground. Soft, warm natural lighting, golden hour, gentle bokeh. Japanese fashion style, sweet, natural, cozy, serene atmosphere. Full body shot, slightly from the side.
+
+
+
+
 A captivating full-body shot of a young Japanese woman, exuding elegance and warmth. She stands confidently outdoors on an autumn day, surrounded by soft, blurred foliage and natural light.
 Role & Appearance: A stylish young Japanese woman, with long, straight brown hair and a friendly, gentle expression. Her makeup is natural and polished, highlighting her features subtly. 
 She looks directly at the viewer with a slight, inviting smile.
