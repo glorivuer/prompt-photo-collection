@@ -1,3 +1,13 @@
+Wardrobe & Styling
+
+Top: Mustard yellow ribbed turtleneck.
+Jacket: Light beige linen jacket, natural texture, subtle drape, layered over turtleneck.
+Skirt: Dark-colored (charcoal), above-knee length, uniform pleats clearly defined.
+Tights: Dark matte, natural shading.
+Shoes: Suede pin heels, brown tone, slender elegant heel, ankle/above-ankle length visible; natural folds and texture visible.
+Nails: Short to medium length, neatly manicured, orange-tone polish, natural glossy finish.
+
+
 A beautiful East Asian girl in her early 20s, with a delicate and sweet face, a gentle smile, and clean, light makeup. She has her dark brown hair in an elegant updo with a few soft strands framing her face. She is wearing a chic autumn outfit: a loose-fitting, light-gray turtleneck sweater decorated with small brown floral embroidery. Below, she wears a chocolate-brown, high-waist skirt with an asymmetrical, high-low ruffled hem. Notably, brown ruffled cuffs, matching the skirt, extend from the sweater's sleeves. She is standing on a quiet autumn street, with blurred trees and buildings in the background and fallen leaves on the ground.
 Image Style Requirements:
 Professional portrait photography, medium shot, subject centered in the frame. Shot with a large aperture to create a beautiful and soft background bokeh. The lighting is soft, natural light, creating a warm and harmonious overall tone. Image quality should be ultra-HD (8K), with hyper-realistic details, embodying the feel of a high-fashion street style photo.
