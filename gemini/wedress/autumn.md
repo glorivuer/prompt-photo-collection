@@ -1,3 +1,7 @@
+
+photorealistic portrait of a beautiful 22-year-old Japanese woman with long brown hair and soft bangs, gentle smile, looking at the camera. She is standing on a modern indoor bridge at night, leaning on a glass and steel railing. The background is a blurry cityscape with beautiful bokeh lights. She is wearing an elegant long-sleeved chiffon maxi dress with a dark floral pattern on a cream background. She has a small beige leather bucket bag. Cinematic style, soft and warm lighting, shallow depth of field. Shot on a DSLR with a 50mm f/1.4 lens, high resolution, ultra-detailed.
+
+
 Wardrobe & Styling
 
 Top: Mustard yellow ribbed turtleneck.
