@@ -13,6 +13,9 @@ Art style: Ultra-detailed 3D render, anime figurine aesthetic, professional prod
 工作室背景为干净的白色，柔和的漫射光凸显了纹理和阴影。
 艺术风格：超精细3D渲染，动漫人偶美学，专业产品摄影，人物造型清晰，构图引人入胜，低角度视角。
 
+<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/2821a9c3-d9a8-4592-8d6a-215b5fa95c4f" />
+
+
 
 
 Create a 1/7 scale commercial action figure based on the character in the photo, in a realistic style and setting. 
