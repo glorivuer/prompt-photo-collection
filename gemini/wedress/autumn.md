@@ -1,3 +1,9 @@
+A beautiful East Asian girl in her early 20s, with a delicate and sweet face, a gentle smile, and clean, light makeup. She has her dark brown hair in an elegant updo with a few soft strands framing her face. She is wearing a chic autumn outfit: a loose-fitting, light-gray turtleneck sweater decorated with small brown floral embroidery. Below, she wears a chocolate-brown, high-waist skirt with an asymmetrical, high-low ruffled hem. Notably, brown ruffled cuffs, matching the skirt, extend from the sweater's sleeves. She is standing on a quiet autumn street, with blurred trees and buildings in the background and fallen leaves on the ground.
+Image Style Requirements:
+Professional portrait photography, medium shot, subject centered in the frame. Shot with a large aperture to create a beautiful and soft background bokeh. The lighting is soft, natural light, creating a warm and harmonious overall tone. Image quality should be ultra-HD (8K), with hyper-realistic details, embodying the feel of a high-fashion street style photo.
+
+
+
 A young Asian woman[image1 ,face 100% match],  sitting gracefully on stone steps outdoors. She is wearing a delicate floral print mini-dress, a soft beige knit cardigan, cream-colored knee-high socks, and light brown loafers. A small beige handbag rests beside her. She is looking gently to the side with a sweet expression. The background features a subtle, blurred street scene with a wooden door, hints of green foliage, and scattered autumn leaves on the ground. Soft, warm natural lighting, golden hour, gentle bokeh. Japanese fashion style, sweet, natural, cozy, serene atmosphere. Full body shot, slightly from the side.
 
 
