@@ -15,6 +15,17 @@ with fair skin, delicate features, and a gentle, serene expression,
 
 a 3D Q version Pixar style cute smile leopard avatar
 
+
+一个有效的AI Prompt:
+主要描述 (Primary Description):
+一张专业级的日系风格人像摄影杰作，照片中是一位20多岁的漂亮东亚女性，她站在夜晚的公园小径上，表情温柔略带沉思。
+细节与服装 (Details & Clothing):
+她留着浅棕色的长发和刘海，穿着一件蓬松柔软的浅灰蓝色马海毛套头毛衣，搭配一条飘逸的米白色多层薄纱裙和黑色连裤袜。她脚上穿着一双灰色麂皮绒短靴，双手优雅地拿着一个简约的天蓝色手拿包。脖子上戴着一条精致的银色珍珠长项链。
+场景与氛围 (Scene & Atmosphere):
+场景是在一个浪漫的秋季夜晚，湿润的人行道上散落着金色的落叶。背景中，复古的街灯发出温暖明亮的光芒，并虚化成美丽的圆形散景光斑（Bokeh）。整体氛围宁静、梦幻且富有电影感。
+摄影参数 (Photographic Parameters):
+使用大光圈镜头（例如 f/1.4）拍摄，实现极浅的景深效果。灯光是柔和的街灯光，从侧面照亮人物。全身照构图，人物位于画面中心。照片质感细腻，色彩柔和，色调温暖。
+
 Prompt: turn me into a caricature. Make it funny.  把我变成一幅漫画。让它变得有趣。
 站立：站立，全身
 侧面：站立，全身，侧视，向前，侧面
