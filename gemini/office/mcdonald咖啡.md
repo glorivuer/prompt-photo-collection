@@ -1,0 +1,4 @@
+This full-length, eye-level street-style photograph features a young, East Asian woman[image1 ,face 100% match, with fair skin, delicate features, 
+and a gentle, serene expression] , in her twenties. She emerges from a McDonald's café on an autumn street, gracefully strolling along the city sidewalk, 
+her gaze gentle and serene. She is dressed in chic autumn attire: a classic camel wool coat, a cozy cream sweater, dark blue skinny jeans, and brown leather ankle boots. She carries a brown leather crossbody bag, one hand tucked into her pocket, the other holding a McDonald's coffee. The background features a McDonald's café with large windows, and golden autumn leaves scattered on the ground and trees. The background is softly blurred, creating a beautiful bokeh effect. The lighting is warm and soft, typical of golden hour.
+The image should be ultra-realistic, rich in detail, and have the quality of a professional DSLR camera shot with an 85mm f/1.4 lens.
