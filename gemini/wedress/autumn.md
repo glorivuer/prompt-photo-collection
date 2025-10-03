@@ -1,3 +1,15 @@
+**masterpiece, best quality, ultra-detailed, photorealistic, cinematic shot**
+
+**Subject:** A beautiful young East Asian woman in her early 20s with long brown hair, crouching on a sidewalk. She is holding a smartphone, engrossed in taking a photo of a tiny, adorable ginger tabby kitten sitting on the pavement in front of her.
+
+**Clothing:** She is wearing an elegant outfit: a beige blazer over a mustard yellow turtleneck sweater, a dark brown pleated skirt, sheer dark pantyhose, and brown suede stiletto high heels.
+
+**Setting:** An urban sidewalk in a Japanese city street. The background is beautifully blurred with bokeh, showing faint outlines of buildings and street life. A few fallen autumn leaves are scattered on the ground.
+
+**Lighting & Style:** Shot in the style of Japanese portrait photography. The scene is illuminated by soft, warm, golden hour sunlight coming from the side, creating a gentle rim light on the woman and casting soft shadows. The atmosphere is warm, gentle, and heartwarming.
+
+**Composition:** Medium full shot, side-view angle, shallow depth of field, focus on the woman and the kitten.
+
 
 photorealistic portrait of a beautiful 22-year-old Japanese woman with long brown hair and soft bangs, gentle smile, looking at the camera. She is standing on a modern indoor bridge at night, leaning on a glass and steel railing. The background is a blurry cityscape with beautiful bokeh lights. She is wearing an elegant long-sleeved chiffon maxi dress with a dark floral pattern on a cream background. She has a small beige leather bucket bag. Cinematic style, soft and warm lighting, shallow depth of field. Shot on a DSLR with a 50mm f/1.4 lens, high resolution, ultra-detailed.
 
