@@ -3,6 +3,9 @@ Add a movie-like subtitle at the bottom of the picture:I can do it myself,
 I know you can but let me do it
 
 
+A cinematic close-up shot of a couple holding hands, tender and intimate moment. The woman's hand, adorned with a delicate diamond engagement ring, rests gently on the man's hand. She is wearing an elegant off-white pleated tulle gown. He is in a classic dark suit with a crisp white shirt cuff visible. The background is beautifully blurred with soft bokeh, suggesting a romantic, warmly lit indoor setting. The overall aesthetic is dreamy, soft-focus, and timeless, with a warm, muted color palette and subtle film grain. The mood is one of deep love, commitment, and the promise of forever. photorealistic, high detail, 8k.
+
+
 A hyper-detailed, cinematic photo of a young romantic couple in their early 20s, having an intimate moment on a stone bench in a Parisian park at night. The woman , main character, focus [image1 ,face 100% match, with fair skin, delicate features, and a gentle, serene expression] , with long brown hair, wears a dark oversized coat and blue jeans, she is gazing lovingly at the man. The man, Supporting Character ,blur , handsome and wearing a classic brown trench coat, is smiling back at her.
 They are sitting under a blooming cherry blossom tree with soft pink flowers framing the top of the scene. The atmosphere is quiet and romantic. The scene is illuminated by the warm, soft glow of a streetlamp, creating gentle highlights and deep shadows. In the background, a classic stone statue and a wall with a trellis are softly visible.
 Style: Shot on 35mm film, noticeable film grain, warm color grading, moody and atmospheric lighting, shallow depth of field, professional photography, cinematic composition, style of romance cinema.
