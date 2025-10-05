@@ -1,3 +1,9 @@
+A hyper-detailed, cinematic photo of a young romantic couple in their early 20s, having an intimate moment on a stone bench in a Parisian park at night. The woman , main character, focus [image1 ,face 100% match, with fair skin, delicate features, and a gentle, serene expression] , with long brown hair, wears a dark oversized coat and blue jeans, she is gazing lovingly at the man. The man, Supporting Character ,blur , handsome and wearing a classic brown trench coat, is smiling back at her.
+They are sitting under a blooming cherry blossom tree with soft pink flowers framing the top of the scene. The atmosphere is quiet and romantic. The scene is illuminated by the warm, soft glow of a streetlamp, creating gentle highlights and deep shadows. In the background, a classic stone statue and a wall with a trellis are softly visible.
+Style: Shot on 35mm film, noticeable film grain, warm color grading, moody and atmospheric lighting, shallow depth of field, professional photography, cinematic composition, style of romance cinema.
+
+
+
 cinematic high-angle shot of a newly married couple in a classic wooden Riva boat on dark, rippling water. 
 The handsome groom with dark hair, in a white shirt and black trousers, is lovingly kissing the cheek of the beautiful bride. 
 The bride[image1 ,face 100% match, with fair skin, delicate features, and a gentle, serene expression], with her dark hair in an updo, eyes closed and a serene smile, is wearing a chic minimalist satin slip wedding dress, elegant long white gloves, and a pearl necklace. She holds a bouquet of white flowers. The scene is intimate and romantic, with soft, natural lighting, creating a moody and timeless atmosphere. 
