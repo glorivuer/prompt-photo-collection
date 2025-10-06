@@ -8,9 +8,8 @@ Adjust the lighting and composite the face from imge 2, Clear the text of the or
 
 [image1 ,face 100% match, with fair skin, delicate features, and a gentle, serene expression] ,
 
-根据 角色 (Role)、姿势、背景 (Context)、服装 (Clothing)、风格 (Style) 和 构图 等步骤，详细分析这张图片，并构建一个完整有效且能生成高质量相似图像的 AI Promp
+根据 角色 (Role)、姿势、背景 (Context)、服装 (Clothing)、风格 (Style) 和 构图 等步骤，详细分析这张图片，并构建一个完整有效且能生成高质量相似图像的 AI Promp ,并给出能吸引关注和流量的图片名称
 
-根据 角色 (Role)、示例 (Examples)、背景 (Context)、服装 (Clothing)、风格 (Style) 和 构图 这六个步骤，详细分析这张图片，并构建一个安全、有效且能生成高质量相似图像的 AI Prompt。
 
 a 3D Q version Pixar style cute smile leopard avatar
 
