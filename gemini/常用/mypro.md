@@ -12,6 +12,7 @@ Adjust the lighting and composite the face from imge 2, Clear the text of the or
 
 
 a 3D Q version Pixar style cute smile leopard avatar
+hyper-detailed, photorealistic, 8k, a full-body shot of an adorable 3D fluffy anthropomorphic white mouse character , wearing a chic autumn outfit: a red wool beret, a red duffle coat, a grey knit sweater, a pleated skirt with a leather belt, and brown lace-up boots. She is standing on a cobblestone path in a beautiful autumn park, holding a cup of bubble tea with a cute mouse face on it. The air is filled with gracefully falling golden and orange maple leaves. The background is a soft-focus forest with warm, cinematic, golden hour sunlight filtering through the trees, creating a beautiful bokeh effect. The atmosphere is cozy, whimsical, and heartwarming.
 
 
 一个有效的AI Prompt:
