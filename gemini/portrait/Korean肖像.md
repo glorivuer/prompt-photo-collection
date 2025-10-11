@@ -1,3 +1,6 @@
+Artistic portrait of a young woman sitting gracefully in the foreground, wearing a modern black leather jacket and an elegant short black skirt, left hand hold a cup of Mccafe coffee ,as well as white sneakers with rose gold details. Long hair cascading beautifully, gently blown by the wind, with a warm and natural facial expression, without altering the original face. The background composition in an artistic monochrome style (black and white) features a close-up portrait of the same woman's face from the side, with soft lighting and a dramatic impression.
+
+
 手机加铅笔画 ，可以改成油画，本人 ，手机对比 
 Create an ultra-detailed, hyper-realistic 3D-style graphite pencil sketch of a human face, drawn on textured white notebook paper with visible paper grain and subtle imperfections. The face sketch should look exactly like the reference photo shown on an iPhone placed next to the notebook.
 <img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/be53d3be-5b99-48cc-a3aa-963483983288" />
