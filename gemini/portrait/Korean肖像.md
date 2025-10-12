@@ -1,4 +1,5 @@
 Artistic portrait of a young woman sitting gracefully in the foreground, wearing a modern black leather jacket and an elegant short black skirt, left hand hold a cup of Mccafe coffee ,as well as white sneakers with rose gold details. Long hair cascading beautifully, gently blown by the wind, with a warm and natural facial expression, without altering the original face. The background composition in an artistic monochrome style (black and white) features a close-up portrait of the same woman's face from the side, with soft lighting and a dramatic impression.
+这幅艺术肖像画描绘了一位年轻女子优雅地坐在前景中，身着摩登的黑色皮夹克和优雅的黑色短裙，左手捧着一杯麦咖啡，脚踩玫瑰金色细节的白色运动鞋。长发飘逸优美，随风轻拂，面部表情温暖自然，丝毫未改变原本的面容。背景构图采用艺术化的单色风格（黑白），以同一女子的侧面特写为特色，柔和的光线营造出戏剧化的氛围。
 
 
 手机加铅笔画 ，可以改成油画，本人 ，手机对比 
