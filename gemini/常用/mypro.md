@@ -9,7 +9,9 @@ Adjust the lighting and composite the face from imge 2, Clear the text of the or
 [image1 ,face 100% match, with fair skin, delicate features, and a gentle, serene expression] ,
 strictly referencing the face from the original image
 
-根据 角色 (Role)、姿势、背景 (Context)、服装 (Clothing)、风格 (Style) 和 构图 等步骤，详细分析这张图片，并构建一个完整有效且能生成高质量相似图像的 AI Promp ,并给出能吸引关注和流量的图片名称
+根据 角色 (Role)、姿势、背景 (Context)、服装 (Clothing)、附件，风格 (Style) 和 构图 等步骤，从不同的角度详细分析这张图片，并构建一个完整有效细节一致且能生成高质量相似真实女性人物,一样的姿势和构图,并适合在中国某一城市的真实场景图像的英文AI Promp.并给这张图片起几个吸引流量关注的标题. 
+
+这样保持和原图完全一样的姿势和构图（原提示词仅保持了面部的一致，会导致构图和姿势不一致
 
 
 a 3D Q version Pixar style cute smile leopard avatar
