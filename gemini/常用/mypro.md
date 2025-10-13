@@ -8,6 +8,7 @@ Adjust the lighting and composite the face from imge 2, Clear the text of the or
 
 [image1 ,face 100% match, with fair skin, delicate features, and a gentle, serene expression] ,
 strictly referencing the face from the original image
+将输入图像中人物的服装替换为参考图像中显示的目标服装。保持人物的姿势、面部表情、背景和整体真实感不变。让新服装看起来自然、合身，并与光线和阴影保持一致。不要改变人物的身份或环境——只改变衣服
 
 根据 角色 (Role)、姿势、背景 (Context)、服装 (Clothing)、附件，风格 (Style) 和 构图 等步骤，从不同的角度详细分析这张图片，并构建一个完整有效细节一致且能生成高质量相似真实女性人物,一样的姿势和构图,并适合在中国某一城市的真实场景图像的英文AI Promp.并给这张图片起几个吸引流量关注的标题. 
 
