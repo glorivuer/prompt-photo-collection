@@ -19,6 +19,8 @@ Captured as if with a cinema-grade camera (ARRI Alexa Mini LF or Sony Venice 2) 
 
 如同使用电影级相机（ARRI Alexa Mini LF 或 Sony Venice 2）搭配 85mm f/1.4 镜头拍摄，呈现浅景深、清晰锐利的细节和丰富的色调对比。整体美感营造出奢华、隽永、充满电影感的氛围，令人联想起现代邦德海报。
 
+Black and white studio portrait of a young english man with a little beard, mullet haircut, strong brows, normal lips . he is wearing an branded suit and resting her chin on his hand. A spotlight creates a circular highlight on her face and a dramatic shadow to his left.
+
 
 Create a photo. Use the attached image of the model as facial reference and physical features.  
 
