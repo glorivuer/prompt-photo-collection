@@ -5,3 +5,6 @@ Setting & Context: The woman is positioned inside an aged, weathered window fram
 Lighting & Atmosphere: Soft, diffused natural light illuminates her face and hair, creating gentle highlights and delicate shadows that accentuate her features. The lighting enhances the nostalgic and melancholic mood. The overall atmosphere is tranquil, intimate, and evokes a sense of timeless beauty and peaceful solitude.
 Composition & Style: Black and white photography. The window acts as a natural frame for her portrait. Shallow depth of field, with the foreground flora and background interior softly blurred to keep sharp focus on her face and expression. High-resolution, realistic, evocative, cinematic, fine art portraiture, with rich grayscale tones.
 Keywords: young Asian woman, contemplative, serene, rustic window, floral foreground, vintage, nostalgic, dreamy, natural beauty, soft light, deep gaze, fine art photography, poetic, high detail, 8K.
+
+<img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/aa618c9d-6ac9-4bc8-a98b-949cf40db12f" />
+
