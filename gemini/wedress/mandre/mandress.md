@@ -18,3 +18,13 @@ Captured as if with a cinema-grade camera (ARRI Alexa Mini LF or Sony Venice 2) 
 构图居中对称，突出了拍摄对象的姿态和掌控力。燕尾服面料的纹理、手表上微妙的光泽以及衬衫的清晰线条都呈现出细致入微的细节。
 
 如同使用电影级相机（ARRI Alexa Mini LF 或 Sony Venice 2）搭配 85mm f/1.4 镜头拍摄，呈现浅景深、清晰锐利的细节和丰富的色调对比。整体美感营造出奢华、隽永、充满电影感的氛围，令人联想起现代邦德海报。
+
+
+Create a photo. Use the attached image of the model as facial reference and physical features.  
+
+A cinematic waist-up portrait of a man standing in a narrow cobblestone street at dusk. He is wearing a dark three-piece suit with a vest and jacket. His tie is loosely styled, slightly undone in a model-like way, emphasizing a fashionable, relaxed appearance rather than a formal businessman look. His hands are casually in his pockets, giving a confident but laid-back posture. The background is softly blurred, with warm glowing street lamps creating a moody atmosphere.
+
+The scene is illuminated with soft natural ambient light, enhanced by subtle golden backlighting from the lamps. A gentle key light highlights the contours of the suit, while fill light ensures balanced exposure on the subject. Shadows are soft but pronounced enough to create depth and drama.
+
+Captured with a Canon EOS 5D Mark IV and an 85mm f/1.4 lens. Aperture is wide open at f/1.4 for shallow depth of field, isolating the subject from the background with creamy bokeh. Shutter speed around 1/200s and ISO 400 to balance low-light conditions. The color grading is cinematic, with muted tones and slight teal-orange contrast for a dramatic yet timeless mood.
+
