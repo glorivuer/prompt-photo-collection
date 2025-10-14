@@ -1,3 +1,7 @@
+Use photo attached to make A beautiful young woman sitting gracefully on a stool, wearing a green leather jacket, a black jeans, and white sneakers. She has long wavy black hair and a confident, elegant smile. The background features a soft, blurred artistic portrait of herself in grayscale, adding depth and contrast. Capture realistic lighting, natural skin tone, smooth texture, and fine details of the face. and outfit. The scene should look cinematic,sharp, andprofessional.dont change the face
+
+
+
 A close-up,  portrait photograph of a young, naturally beautiful Asian woman[image1 ,with 100% facial accuracy, with fair skin, delicate features, long dark brown hair] (around 20-24 years old) with a serene and contemplative expression.
 Pose & Action: She is framed within an old, rustic window frame, leaning gently with her left hand gracefully supporting her cheek. Her gaze is directed softly towards the viewer, conveying a sense of quiet introspection and slight curiosity. Her long, slightly wavy hair flows naturally around her shoulders, with a few delicate floral or leafy sprigs nestled within, blending seamlessly with the foreground elements.
 Clothing: She wears a simple, plain short-sleeved top or t-shirt, likely made of cotton, which accentuates her natural and unadorned beauty. The focus is entirely on her face and the interplay of light and shadow, rather than intricate clothing details.
