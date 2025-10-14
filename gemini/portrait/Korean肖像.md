@@ -2,6 +2,10 @@ Artistic portrait of a young woman sitting gracefully in the foreground, wearing
 这幅艺术肖像画描绘了一位年轻女子优雅地坐在前景中，身着摩登的黑色皮夹克和优雅的黑色短裙，左手捧着一杯麦咖啡，脚踩玫瑰金色细节的白色运动鞋。长发飘逸优美，随风轻拂，面部表情温暖自然，丝毫未改变原本的面容。背景构图采用艺术化的单色风格（黑白），以同一女子的侧面特写为特色，柔和的光线营造出戏剧化的氛围。
 
 
+
+A woman's portrait, standing confidently in front of a clean, simple white background. She is holding a large, colorful bouquet of flowers in one hand and adjusting her sunglasses with the other. She's wearing a crisp white collared shirt and beige high-waisted linen pants. The entire scene is illuminated by warm, natural sunlight, casting gentle, directional shadows. Replace the model's face with the uploaded face, matching lighting, shadows, and skin tone perfectly for a natural, seamless portrait look.
+
+
 手机加铅笔画 ，可以改成油画，本人 ，手机对比 
 Create an ultra-detailed, hyper-realistic 3D-style graphite pencil sketch of a human face, drawn on textured white notebook paper with visible paper grain and subtle imperfections. The face sketch should look exactly like the reference photo shown on an iPhone placed next to the notebook.
 <img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/be53d3be-5b99-48cc-a3aa-963483983288" />
