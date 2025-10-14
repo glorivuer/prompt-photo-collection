@@ -28,3 +28,14 @@ The scene is illuminated with soft natural ambient light, enhanced by subtle gol
 
 Captured with a Canon EOS 5D Mark IV and an 85mm f/1.4 lens. Aperture is wide open at f/1.4 for shallow depth of field, isolating the subject from the background with creamy bokeh. Shutter speed around 1/200s and ISO 400 to balance low-light conditions. The color grading is cinematic, with muted tones and slight teal-orange contrast for a dramatic yet timeless mood.
 
+
+Create a photo. Use the attached image of the model as facial reference and physical features.
+
+A fine-art black and white portrait taken in a professional studio with a seamless plain background. The subject stands in a relaxed three-quarter pose, slightly angled, head tilted gently downward with an introspective expression. The mood is cinematic and contemplative, evoking elegance and quiet intensity.
+
+The outfit is minimalist yet stylish: a loose dark shirt worn unbuttoned over a fitted tank top, tucked neatly into high-waisted trousers with a classic belt. A small pendant necklace adds a refined detail to the composition. The clothing creates texture and flow while keeping the focus on form and simplicity.
+
+Lighting is soft but directional, as if from a diffused studio key light positioned slightly above and to the side, casting gentle shadows that sculpt the face and enhance the folds of fabric. The tonal range emphasizes deep blacks and crisp highlights, producing a high-contrast, timeless monochrome look.
+
+Captured with a medium-format digital camera (Hasselblad H6D-100c) paired with an 80mm f/2.8 lens, the image shows extraordinary clarity, fine detail, and shallow depth of field. The composition balances subject and negative space, presenting a polished editorial style suitable for fashion photography or cinematic portraiture.
+
