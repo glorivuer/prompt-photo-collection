@@ -39,3 +39,13 @@ Lighting is soft but directional, as if from a diffused studio key light positio
 
 Captured with a medium-format digital camera (Hasselblad H6D-100c) paired with an 80mm f/2.8 lens, the image shows extraordinary clarity, fine detail, and shallow depth of field. The composition balances subject and negative space, presenting a polished editorial style suitable for fashion photography or cinematic portraiture.
 
+
+Create a photo. Use the attached image of the model as facial reference and physical features.
+
+A cinematic promotional-style portrait featuring a sharply dressed man in a classic black tuxedo with a satin shawl lapel and a perfectly tied bow tie. He stands in a powerful, confident pose against a textured concrete wall backdrop with a faint iconic ‘007’ motif subtly visible, blending into the surface. His posture is strong and composed, with one hand adjusting the cuff of his shirt sleeve to highlight a sleek luxury wristwatch, while the other rests naturally at his side.
+
+The composition emphasizes elegance, sophistication, and quiet strength, evoking the style of a secret agent or high-end fashion editorial. The lighting is dramatic but polished: soft, controlled illumination from the front with subtle shadows that sculpt the jawline and highlight the crisp textures of the suit.
+
+The overall mood is refined, confident, and cinematic, designed to convey charisma, power, and timeless sophistication. Captured as if with a full-frame professional camera (Canon EOS R5) paired with an 85mm f/1.2 lens, ensuring razor-sharp detail on the subject while keeping the background clean and slightly softened for depth.
+
+
