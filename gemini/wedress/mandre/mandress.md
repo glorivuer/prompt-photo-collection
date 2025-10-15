@@ -1,3 +1,11 @@
+A black-and-white aesthetic
+portrait of a stylish me wearing a dark coat and casual clothes, illuminated by dramatic window shadows cast on the wall. The mood is introspective and cinematic, with strong contrast between light and shadow. Black and white photography style, minimalistic background, soft natural light, contemplative expression, artistic composition.
+
+Transform your snap into next level art with Gemini Nano Banana.
+
+Prompt: Full-body HD portrait. Face 100% same as reference. Create A hyper-realistic 4K portrait of a stylish young man (21 years) leaning confidently against a textured matte black wall on a modern outdoor staircase. He has a medium-toned complexion and voluminous black hair. He wears sleek, dark-tinted sunglasses and exudes calm, effortless style. His outfit features a relaxed-fit mauve-white linen shirt with the sleeves and the top few buttons open.
+
+
 Create a photo. Use the attached image of the model as facial reference and physical features.
 
 A cinematic portrait in the style of James Bond promotional photography. The subject stands facing the camera, wearing a sharp black tuxedo with a white dress shirt and a black bow tie. His expression is calm but intense, exuding quiet confidence and sophistication. One hand is raised to the bow tie, as if adjusting it - a signature gesture symbolizing composure and elegance.
