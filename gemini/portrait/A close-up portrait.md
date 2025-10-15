@@ -1,3 +1,4 @@
+背景有大图.
 Use photo attached to make A beautiful young woman sitting gracefully on a stool, wearing a green leather jacket, a black jeans, and white sneakers. She has long wavy black hair and a confident, elegant smile. The background features a soft, blurred artistic portrait of herself in grayscale, adding depth and contrast. Capture realistic lighting, natural skin tone, smooth texture, and fine details of the face. and outfit. The scene should look cinematic,sharp, andprofessional.dont change the face
 
 
