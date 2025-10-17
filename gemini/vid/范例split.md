@@ -1,3 +1,6 @@
+
+https://x.com/tangchuan_CN/status/1978038552454644121
+
 You can create split-screen videos by simply prompting to show two sides of your story at once. See our sample prompt below and give split-screen storytelling a try. #FindYourFlow
 
 “Seamless vertical split-screen motion video:
