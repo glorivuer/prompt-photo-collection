@@ -1,6 +1,10 @@
 
 https://x.com/tangchuan_CN/status/1978038552454644121
 
+
+https://x.com/op7418/status/1978855690786471998
+Suno 做的音乐是咋做的
+
 You can create split-screen videos by simply prompting to show two sides of your story at once. See our sample prompt below and give split-screen storytelling a try. #FindYourFlow
 
 “Seamless vertical split-screen motion video:
