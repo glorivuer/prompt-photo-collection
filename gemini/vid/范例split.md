@@ -1,4 +1,4 @@
-
+https://x.com/koldo2k/status/1978915043753279826
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46bae662-36aa-4627-b4ff-c5368db55b1e" />
