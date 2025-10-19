@@ -1,3 +1,6 @@
+
+<img width="701" height="704" alt="image" src="https://github.com/user-attachments/assets/9a13bbe6-3ec9-433f-8d67-670bbe5db6c1" />
+
 Base prompt :
 
 A Dawn of the Fairy Court interpretation of [SUBJECT], presiding over a royal assembly of enchanted beings under radiant sunlight. Merge regal [COLOR1] and subtle [COLOR2] to communicate the court’s splendor.
