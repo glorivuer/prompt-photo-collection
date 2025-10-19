@@ -11,5 +11,11 @@ the background is a simple, moody, smoky grey, enhancing the focus on the subjec
 裙子外面套着一件细节丰富的金色巴洛克式紧身胸衣。金色的头发在风中轻柔飘扬。
 她的表情宁静而忧郁。风格融合了古典高级时装摄影，并运用戏剧性的明暗对比光效，营造出柔和的高光和丰富的阴影。背景是简洁、忧郁的烟灰色，增强了对主体的聚焦。柔和的色调，营造出史诗般空灵的氛围。
 
+masterpiece, best quality, ultra-detailed, photorealistic, 16k, cinematic lighting, dramatic atmosphere.
+a full body shot of a divine female[image1 ,with 100% facial accuracy, with fair skin, delicate features] angel sitting elegantly.
+she has enormous, realistic white feathered wings spread wide. her posture is poised with crossed legs, and she left hand holds her flowing Cream-colored silk slip dress..
+Her face tilted to the upper left. her long wavy dark brown hair is softly blowing in the wind.
+her expression is serene and melancholic. the style is a fusion of classical  high-fashion photography, with dramatic chiaroscuro lighting creating soft highlights and rich shadows. the background is a simple, moody, smoky grey, enhancing the focus on the subject. muted color palette, epic and ethereal mood.
+
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/bf87a63e-d24b-4452-8de6-6c87b37750ab" />
 
