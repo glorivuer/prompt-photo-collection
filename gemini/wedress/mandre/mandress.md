@@ -1,3 +1,10 @@
+A young man, using the face from the provided image, sitting on the steps in front of a small cafe with potted plants around. Natural lighting, no blur or bokeh. He is wearing dark blue baggy jeans, a plain oversized cream t-shirt, white Adidas Samba sneakers, and a clean black watch. He is sitting with one hand on his knee, looking directly at the camera with a cool, chill expression."
+
+
+
+
+
+
 A black-and-white aesthetic
 portrait of a stylish me wearing a dark coat and casual clothes, illuminated by dramatic window shadows cast on the wall. The mood is introspective and cinematic, with strong contrast between light and shadow. Black and white photography style, minimalistic background, soft natural light, contemplative expression, artistic composition.
 
