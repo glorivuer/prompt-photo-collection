@@ -1,3 +1,13 @@
+(Identical to the reference photo, retaining original facial features) A young Asian woman wearing a black baseball cap with "PRO" emblazoned on it and a white baseball-style shirt with the number "0.00" printed on the front. She adopts a confident S-curve pose with her head slightly tilted, giving a playful wink and a flirtatious smile, while touching her cheek with her right hand in a half-heart pose. Her long brown hair, decorated with a small pink bow, is visible under the cap. She has bright and cute makeup, featuring gray lenses that make her eyes appear larger, pink blush that accentuates her cheeks, and glossy pink lipstick on her full lips. The background is a soft light pink.
+
+Style: Photorealistic, cinematic photography
+Lighting: Natural light, soft, even lighting that highlights the details of the makeup and the model's facial expressions, with a sharp focus on the model's face and clothing.
+
+Composition: Medium shot, subject centered
+Details: Realistic fabric texture on baseball cap and shirt, fine hair strand detail, subtle shine on glossy pink lipstick, soft texture of pink ribbon, realistic skin texture with visible pink blush, clear contact lens detail.
+Quality: High detail, 8K, masterpiece, cinematic photography.
+
+
 玻璃窗
 A cinematic close-up portrait of a stylish young woman standing by a large glass window, gazing thoughtfully at her reflection. She wears a black turtleneck sweater layered under a fitted dark blazer, creating a sleek, elegant, and timeless look. Soft natural light from the window gently illuminates one side of her face, while the other side falls into subtle shadow, adding depth and emotion. The background remains softly blurred, emphasizing her calm and introspective presence. Her reflection in the glass adds a sense of duality and quiet contemplation. The overall atmosphere is moody, sophisticated, and cinematic, with a refined palette of neutral tones and soft daylight.
 
