@@ -1,3 +1,12 @@
+Friends try this 3D 𝕏 logo Profile picture ☘️
+
+Use Google Gemini ai 📸 
+
+Prompt ⤵️ 
+
+A woman in a realistic white hoodie sits casually on a large 3D 𝕏 logo icon. The finely detailed figure, wearing a modern hoodie, jogger pants, sneakers, and headphones, gives it a stylish and youthful look. The figure real sits on a round, transparent acrylic base with no text. In the background, a large 𝕏 profile card with the username Shreya Yadav is displayed, along with the character's profile photo.
+
+
 masterpiece, best quality, ultra-detailed,  a beautiful young Japanese woman[image1 ,with 100% facial accuracy, with fair skin, delicate features] 
 with an elegant and serene expression. Full body shot, standing in a 3/4 profile view. 
 She is holding a translucent wagasa (Japanese oil-paper umbrella) with a turquoise and pink watercolor floral pattern. 
