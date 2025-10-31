@@ -1,3 +1,7 @@
+
+Extreme close-up portrait of a woman with distinct facial features, full head visible. Harsh directional studio light from a side angle, creating intense micro-shadows, emphasizing pores and skin texture. Dewy, glistening skin with natural moisture. Wet hair strands partially cover the eyes. Sharp focus on the eyes, showing subtle redness for raw realism. Hyper-realistic photograph, high-resolution, cinematic quality, 3/4 view.
+
+
 背景有大图.
 Use photo attached to make A beautiful young woman sitting gracefully on a stool, wearing a green leather jacket, a black jeans, and white sneakers. She has long wavy black hair and a confident, elegant smile. The background features a soft, blurred artistic portrait of herself in grayscale, adding depth and contrast. Capture realistic lighting, natural skin tone, smooth texture, and fine details of the face. and outfit. The scene should look cinematic,sharp, andprofessional.dont change the face
 
