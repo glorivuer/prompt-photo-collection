@@ -1,3 +1,11 @@
+Create a hyper realistic cinematic portrait of a confident young man whose image is uploaded sitting in a dimly lit, modern lounge with a cityscape view in the background. Use 100% same face as in uploaded image. He has short, styled black hair ( keep same as in uploaded image ) and wears a sleek black suit with the top button of his shirt open, exuding a mysterious and composed aura. Warm orange and teal lighting illuminate his face and surroundings, creating a cinematic, neo-noir atmosphere. A gun rests casually on the table beside him, suggesting a suspenseful or action-themed setting. The overall mood is intense, stylish, and dramatic, similar to a high-end action thriller movie scene.
+
+Style Keywords:
+Cinematic lighting, neo-noir, moody tones, high contrast, dramatic portrait, urban night setting, film still, stylish and confident male character.
+
+
+
+
 A young man, using the face from the provided image, sitting on the steps in front of a small cafe with potted plants around. Natural lighting, no blur or bokeh. He is wearing dark blue baggy jeans, a plain oversized cream t-shirt, white Adidas Samba sneakers, and a clean black watch. He is sitting with one hand on his knee, looking directly at the camera with a cool, chill expression."
 
 
