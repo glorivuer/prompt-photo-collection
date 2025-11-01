@@ -8,3 +8,8 @@ Style: High-quality 3D render, cartoon illustration style with soft lighting, sm
 Composition: Mid-shot, with the girl slightly off-center to the left, balanced by the butterflies on the right. Shallow depth of field to emphasize the character.
 
 <img width="736" height="1104" alt="image" src="https://github.com/user-attachments/assets/714f3b63-8a28-4a95-8713-da5a1759b459" />
+
+<img width="735" height="945" alt="image" src="https://github.com/user-attachments/assets/48530651-338b-4e89-ac45-9d89b48a124f" />
+
+
+
