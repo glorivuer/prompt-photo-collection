@@ -12,4 +12,8 @@ Composition: Mid-shot, with the girl slightly off-center to the left, balanced b
 <img width="735" height="945" alt="image" src="https://github.com/user-attachments/assets/48530651-338b-4e89-ac45-9d89b48a124f" />
 
 
+<img width="736" height="1104" alt="image" src="https://github.com/user-attachments/assets/ccc6b8c3-89f4-4777-ba23-dc54badc40e9" />
+
+
+
 
