@@ -1,3 +1,20 @@
+Create a cinematic and intimate portrait with an analog film aesthetic, capturing a young woman inside a car. The subject is looking out the open window, her arm resting on the door, and her face partially framed by the car’s edge, creating a sense of depth and a spontaneously captured moment. Her gaze is direct, intense, and slightly melancholic toward the camera.
+
+Her hair is tousled and flowing as if blown by the wind, with a few loose strands gently falling over her face, adding movement and emotional rawness to the frame.
+
+She wears a dark, casual jacket (jeans or a sweatshirt), giving a relaxed yet thoughtful vibe.
+
+The background shows a blurred, desolate landscape — a quiet road on a cloudy day or at dusk. The car’s rearview mirror is visible, hinting at travel and reflection. The color palette is desaturated with cool, earthy tones, and visible film grain enhances the nostalgic, introspective atmosphere.
+
+The lighting is natural, soft, and diffuse — like an overcast day — shaping her features with delicate, cinematic shadows.
+
+Camera Settings: Captured with a 50mm or 85mm prime lens on a full-frame camera for an intimate, cinematic perspective. Aperture between f/1.8 and f/2.8 for shallow depth of field, keeping her eyes in sharp focus while softly blurring the rest. ISO 400–800 to preserve the natural film grain.
+
+Post-production: Apply analog film tones — muted colors, cool highlights, subtle grain, and warm undertones for a nostalgic, emotional finish.
+
+Identity Fidelity: Use the reference image of the woman to replicate her exact facial features, expressions, skin tone, eye color, hairstyle, and natural beauty with 100% accuracy. Capture her essence authentically within this cinematic, emotionally charged moment.
+
+
 A photo-realistic 8K full-body portrait features a woman leaning with her back against a sleek Harley-Davidson motorcycle, exuding confidence and poise. Her arms are crossed casually, and she gazes directly at the camera with a calm, self-assured expression. 
 She wears a fitted black leather jacket, khaki jeans that complement her style, and black cowboy-style boots that add a touch of rugged elegance. Her stance is relaxed yet commanding, perfectly blending strength and sophistication. 
 Next to her, on a clean, modern wall, a bold black-and-white stylized vector portrait mirrors her pose. 
