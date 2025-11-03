@@ -1,3 +1,6 @@
+A high-quality studio-style photoshoot of the same man as in the reference image. He is posing confidently in front of a plain grey background. The lighting is minimal and soft, fully focused on him, creating a cinematic and professional photoshoot look. He is wearing a stylish blue outfit that matches the aesthetic of the setup. The background and overall tone are clean, elegant, and minimalistic, with no distractions, highlighting his pose and expression.
+
+
 Create a hyper realistic cinematic portrait of a confident young man whose image is uploaded sitting in a dimly lit, modern lounge with a cityscape view in the background. Use 100% same face as in uploaded image. He has short, styled black hair ( keep same as in uploaded image ) and wears a sleek black suit with the top button of his shirt open, exuding a mysterious and composed aura. Warm orange and teal lighting illuminate his face and surroundings, creating a cinematic, neo-noir atmosphere. A gun rests casually on the table beside him, suggesting a suspenseful or action-themed setting. The overall mood is intense, stylish, and dramatic, similar to a high-end action thriller movie scene.
 
 Style Keywords:
