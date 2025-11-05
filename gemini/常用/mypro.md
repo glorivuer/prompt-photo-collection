@@ -1,3 +1,7 @@
+
+Nano-Banana 精选案例库
+https://github.com/PicoTrex/Awesome-Nano-Banana-images
+
 Adjust the lighting and composite the face from image2, Clear the text of the original image.
 调整灯光并从图像 2 中合成脸部，清除原始图像的文字。
 
