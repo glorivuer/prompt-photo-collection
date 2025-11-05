@@ -1,3 +1,10 @@
+A smart and good-looking man with the facial features of the uploaded photo is sitting with a beautiful beloved in a five star hotel for Indian style dinner  The beloved is wearing a stunning, traditional Black Banarasi silk saree and has long, beautiful, flowing dark hair. The man is wearing a stylish white shalwar kameez with a navy long coat. Both the man and the beloved have happy, bright smiles on their faces, showing clear joy and affection. The photo is a high-quality, professional portrait in night lights
+
+
+
+A young boy and a girl in a car parked on the beach and taking selfie while it is a serene and sunny day and the sunroof is open. the ambience should be fun and romantic while the setting should be like golden hour!
+
+
 A man and a woman stand on a grand stage, striking poses reminiscent of Michael Jackson. The man, on the left, is dressed in a sleek black suit with a matching tie, white gloves, and a fedora that he is tipping with one hand. His other hand is poised, and he looks up with a confident expression, capturing the King of Pop's iconic flair. Beside him, the woman mirrors the energy in a stylish white suit, black tie, and white gloves. She stands with one leg crossed gracefully in front of the other, a subtle smile playing on her lips, and her gaze directed towards the man. The stage, with its rows of empty red theater seats receding into the background, is illuminated by spotlights, creating a dramatic and elegant setting. Together, they embody a modern, sophisticated homage to Michael Jackson's legendary style and stage presence.
 
 
