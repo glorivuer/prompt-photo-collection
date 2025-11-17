@@ -9,3 +9,6 @@ Warm, muted brown-orange color tone across the entire scene, giving a hazy late-
 Camera angle is eye level, framing the soldiers from head to toe. Composition places one soldier slightly behind the other, creating depth. Mood is tense, calm, and professional, like a real military operation photo taken during patrol. High detail on textures, dust particles, clothing folds, weapon surfaces, and lighting transitions.
 
 Make sure the uploaded face blends naturally with the lighting, dust tone, shadows, and atmosphere of the scene.
+
+<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/323f963d-7537-41b4-b106-2010592bf1c1" />
+
