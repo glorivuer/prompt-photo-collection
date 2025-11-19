@@ -1,3 +1,7 @@
+highly detailed 3D render of a young woman with natural pale skin, large expressive hazel eyes, and slightly flushed cheeks, freckles across her nose, and a warm friendly smile; messy curly light brown hair tied in a casual high bun with a few loose strands framing her face; wearing a fluffy textured pastel green zip-up hoodie over a simple white t-shirt with small black letters, soft realistic fabric folds, subtle lighting reflections on the clothing; her arms are crossed casually in a confident yet approachable pose; ultra-realistic sk
+
+
+
 Generate Pixar like characters using Gemini Nano Banana.
 
 Animated movie scene of a Pixar character in the style of Walt Disney Pixar Animation Studios with proportions similar to Tangled and Encanto, character is a handsome,
