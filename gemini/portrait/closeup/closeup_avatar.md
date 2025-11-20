@@ -1,3 +1,9 @@
+"artisitc_id": "ar--cu-003",
+Hyper-realistic cinematic — create an 8K photorealistic image using the attached photo.
+A close-up portrait of a woman with long, jet-black, slightly wind-swept hair falling across her face.
+Her striking, light-colored eyes gaze upwards and to the right, catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, nose, and plump, glossy, mauve-toned lips.
+A slightly lightweight silk texture enhances the softness and realism of the scene.
+
 
 "artisitc_id": "ar-cu-001",
 Extreme close-up portrait of a woman with distinct facial features, full head visible. Harsh directional studio light from a side angle, creating intense micro-shadows, emphasizing pores and skin texture. Dewy, glistening skin with natural moisture. Wet hair strands partially cover the eyes. Sharp focus on the eyes, showing subtle redness for raw realism. Hyper-realistic photograph, high-resolution, cinematic quality, 3/4 view.
