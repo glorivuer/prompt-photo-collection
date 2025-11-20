@@ -1,3 +1,10 @@
+
+"artisitc_id": "ar-cu-004",
+Using the uploaded picture exactly face
+A super close-up cinematic portrait of a young woman framed by  a fews  mall, delicate pale pink and pastel blue flowers with  tiny maple leaves,
+arranged sparsely so they are not too crowded. Sunlight casts soft shadows of petals and leaves across her face. 
+She has slightly tousled dark hair falling around her shoulders.
+
 "artisitc_id": "ar--cu-003",
 Hyper-realistic cinematic — create an 8K photorealistic image using the attached photo.
 A close-up portrait of a woman with long, jet-black, slightly wind-swept hair falling across her face.
