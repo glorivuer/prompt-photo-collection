@@ -1,0 +1,2 @@
+"anime_id": "an-av-001",
+Create a Pixar sticker sheet based on the person in the photo. The stickers should feature various expressive reactions in a cute, cartoon-like style, keeping the hairstyle, facial features, and outfit colors similar to the reference. Each sticker must have a different mood or gesture: Laughing Smiling sweetly Blushing with heart eyes (love) Angry pout Hand on chin (thinking) Crying with big teary eyes Shocked or surprised Waving hello Sparkling with joy Holding a dessert plate (special version)
