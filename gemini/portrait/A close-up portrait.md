@@ -1,7 +1,3 @@
-
-Extreme close-up portrait of a woman with distinct facial features, full head visible. Harsh directional studio light from a side angle, creating intense micro-shadows, emphasizing pores and skin texture. Dewy, glistening skin with natural moisture. Wet hair strands partially cover the eyes. Sharp focus on the eyes, showing subtle redness for raw realism. Hyper-realistic photograph, high-resolution, cinematic quality, 3/4 view.
-
-
 背景有大图.
 Use photo attached to make A beautiful young woman sitting gracefully on a stool, wearing a green leather jacket, a black jeans, and white sneakers. She has long wavy black hair and a confident, elegant smile. The background features a soft, blurred artistic portrait of herself in grayscale, adding depth and contrast. Capture realistic lighting, natural skin tone, smooth texture, and fine details of the face. and outfit. The scene should look cinematic,sharp, andprofessional.dont change the face
 
@@ -9,7 +5,11 @@ Use photo attached to make A beautiful young woman sitting gracefully on a stool
 A black-and-white aesthetic portrait of a stylish young woman wearing a dark coat and casual clothes, illuminated by dramatic window shadows cast on the wall. The mood is introspective and cinematic, with strong contrast between light and shadow. Black-and-white photography style, minimalistic background, soft natural light, contemplative expression, and artistic composition.
 
 
+"artisitc_id": "ar-cu-001",
+Extreme close-up portrait of a woman with distinct facial features, full head visible. Harsh directional studio light from a side angle, creating intense micro-shadows, emphasizing pores and skin texture. Dewy, glistening skin with natural moisture. Wet hair strands partially cover the eyes. Sharp focus on the eyes, showing subtle redness for raw realism. Hyper-realistic photograph, high-resolution, cinematic quality, 3/4 view.
 
+
+"artisitc_id": "ar-cu-002",
 A close-up,  portrait photograph of a young, naturally beautiful Asian woman[image1 ,with 100% facial accuracy, with fair skin, delicate features, long dark brown hair] (around 20-24 years old) with a serene and contemplative expression.
 Pose & Action: She is framed within an old, rustic window frame, leaning gently with her left hand gracefully supporting her cheek. Her gaze is directed softly towards the viewer, conveying a sense of quiet introspection and slight curiosity. Her long, slightly wavy hair flows naturally around her shoulders, with a few delicate floral or leafy sprigs nestled within, blending seamlessly with the foreground elements.
 Clothing: She wears a simple, plain short-sleeved top or t-shirt, likely made of cotton, which accentuates her natural and unadorned beauty. The focus is entirely on her face and the interplay of light and shadow, rather than intricate clothing details.
