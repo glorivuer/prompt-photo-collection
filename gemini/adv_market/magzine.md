@@ -1,3 +1,8 @@
+
+To say Nano Banana Pro is good at text is an understatement. Here's the Gemini 3 blog post, as a glossy magazine article.
+
+> Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+
 Make your photo like this using this prompt:
 
 {
