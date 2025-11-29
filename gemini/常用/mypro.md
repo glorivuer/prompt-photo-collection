@@ -1,3 +1,19 @@
+Extract all visual details from this image and convert them into a clean, well-structured JSON prompt.
+Include the sections: “subject”, “clothing”, “hair”, “face”, “accessories”, “environment”, “lighting”, “camera”, “style”.
+Add the output information: “aspect_ratio”: “9:16”, “orientation”: “vertical”.
+Do not invent or assume anything that is not clearly visible in the image.
+
+In the “subject” field, always include: “a Japanese woman”.
+
+从这张图片中提取所有视觉细节，并将其转换为清晰、结构良好的 JSON 格式。
+
+包含以下部分：“subject”（主题）、“clothing”（服装）、“hai​​r”（头发）、“face”（脸部）、“accessories”（配饰）、“environment”（环境）、“lighting”（光线）、“camera”（相机）、“style”（风格）。
+
+添加输出信息：“aspect_ratio”（宽高比）：“9:16”，“orientation”（方向）：“vertical”（垂直）。
+
+请勿凭空捏造或臆测任何图片中不清晰可见的信息。
+
+在“subject”（主题）字段中，务必包含：“a Japanese woman”（一位日本女性）。
 
 Create a JSON ai prompt containing image dimensions and details. 
 这是掌握 Nano Banana Pro 的一项关键技巧。将任意图片上传到 Gemini，并指示它“创建一个包含图片尺寸和详细信息的 JSON 提示”。这样就会输出一个用于重现图片的提示，方便你只修改想要修改的部分。
