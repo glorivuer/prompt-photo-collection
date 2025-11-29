@@ -1,3 +1,8 @@
+Break Glass In Case of a Depression
+
+Now your turn: What 2 items are in your emergency box?
+A photorealistic editorial-style product photo of a red wooden emergency box mounted on a clean white wall. Inside the box, there is a single cigarette with a classic Marlboro design, tan filter, white body, and the word “Marlboro” printed in black near the filter. Next to the cigarette is a minimal, metallic gold lighter with a sleek, elegant form. The two objects are vertically aligned and evenly spaced. On the top of the box in bold white text: "BREAK GLASS". On the bottom: "IN CASE OF A DEPRESSION" are written on the glass. A small silver hammer with a sharp pointed head and flat base is mounted on the side of the red box, connected by a delicate silver chain. The lighting is soft and bright, with minimal shadows. The overall style is luxury product photography, centered composition, front-on camera angle, and clean visual aesthetic
+
 {
   "photo_description": "A striking, fashion-forward portrait of a young woman looking over her shoulder toward the camera, standing by a dark wooden door with decorative trim.",
   "subject_details": {
