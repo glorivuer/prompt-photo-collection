@@ -1,3 +1,7 @@
+
+Create a JSON ai prompt containing image dimensions and details. 
+这是掌握 Nano Banana Pro 的一项关键技巧。将任意图片上传到 Gemini，并指示它“创建一个包含图片尺寸和详细信息的 JSON 提示”。这样就会输出一个用于重现图片的提示，方便你只修改想要修改的部分。
+
 Prompt :
 Use the provided portrait photo <YOUR PHOTO> as the base. 
 Do NOT change the person’s face, expression, age, skin tone or gender. Just overlay a clean, minimal infographic on top.
