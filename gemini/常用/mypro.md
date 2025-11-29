@@ -1,3 +1,6 @@
+extract all visual details from this image and convert them into a clean, well-structured JSON prompt. include sections: "subject", "clothing", "hair", "face", "accessories", "environment", "lighting", "camera", "style"...
+
+
 Extract all visual details from this image and convert them into a clean, well-structured JSON prompt.
 Include the sections: “subject”, “clothing”, “hair”, “face”, “accessories”, “environment”, “lighting”, “camera”, “style”.
 Add the output information: “aspect_ratio”: “9:16”, “orientation”: “vertical”.
