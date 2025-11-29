@@ -1,4 +1,4 @@
-extract all visual details from this image and convert them into a clean, well-structured JSON prompt. include sections: "subject", "clothing", "hair", "face", "accessories", "environment", "lighting", "camera", "style"...
+extract all visual details from this image and convert them into a clean, well-structured JSON prompt. include sections: "subject", "clothing", "hair", "face", "accessories", "environment", "lighting", "camera", "style"... https://x.com/maxxmalist/status/1992994234459152649
 
 
 Extract all visual details from this image and convert them into a clean, well-structured JSON prompt.
