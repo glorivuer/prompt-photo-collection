@@ -1,3 +1,18 @@
+
+{
+"image_dimensions":
+"image_details": {
+"subject": "A woman[image1, ,with 100% facial accuracy, with fair skin, delicate features, and long wavy brown hair] in a flowing blue-grey gown standing next to a grey heron",
+"identity": {
+"preserve_original": true,
+"reference_match": true,
+"description": "Facial features must remain exactly identical to the provided reference photo."
+}
+"setting": "Misty, serene lakeside with a grand, stately building in the background", "mood": "Elegant, ethereal, tranquil, mysterious", "lighting": "Soft, diffused light characteristic of a misty or foggy day", "colors": "Dominantly cool tones: shades of blue, grey, and muted greens/browns for the landscape and building", "composition": "The woman and heron are in the foreground, with the lake and building in the midground and background, creating depth. The heron is on a stone ledge next to the water, and the woman is slightly behind it.", "style": "Fashion photography, fine art, dreamlike", "elements": [ "Woman with blonde hair, styled up", "Off-the-shoulder, ruffled blue-grey dress with a long train", "Grey heron with a distinctive black and white head pattern", "Calm body of water reflecting the building", "Large, classical-style building with multiple windows and towers, partially obscured by mist", "Misty or foggy atmosphere", "Gravel path or shoreline", "Subtle figures in the distant background" ], "keywords": [ "mist", "fog", "heron", "elegant", "gown", "dress", "fairytale", "regal", "chateau", "lake", "reflection", "blue", "grey", "dreamy", "serene" ]
+}
+}
+
+
 {
   "image_specification": {
     "reference_id": "Figure 1",
