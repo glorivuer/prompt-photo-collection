@@ -1,3 +1,21 @@
+prompt:
+专业运动服装产品摄影姿势指南，东亚女性模特，深灰色/黑色瑜伽套装（运动内衣+高腰紧身裤），干净摄影棚背景，柔和自然光。拼图布局：2行×5列，每个姿势配中文说明。
+
+10个姿势：
+1. 站立S形，一手插口袋，看远方
+2. 站立交叉腿，一手拨头发，看镜头微笑
+3. 靠墙抱臂，侧头看镜头
+4. 坐台阶，托腮视线往下
+5. 坐椅子大笑，身体前倾
+6. 走路抓拍，单手拎包带
+7. 回头看，手抓下摆，轻笑
+8. 窗边侧脸，闭眼享受光线
+9. 盘腿抱膝，头靠膝盖微笑
+10. 拿书看道具，一手摸头发
+
+风格：电商摄影、极简美学、生活化场景、柔和阴影、自然表情、全身或3/4身构图、多角度拍摄（平视/侧面/低角度/俯视），2816x1536分辨率。
+
+
 <instruction>
 Analyze the input image composition. Identify the key subjects and their environment.
 Generate a coherent 3x3 grid "Contact Sheet" showcasing 9 different cinematic shots of these subjects.
