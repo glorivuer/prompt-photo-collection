@@ -1,4 +1,4 @@
-Extract all visual details of the face and hair from the uploaded image, and then create an image based on these visual details.
+Extract all visual details of the face and hairstyle from the uploaded image, and then create an image based on these visual details.
 
 extract all visual details from this image and convert them into a clean, well-structured JSON prompt. include sections: "subject", "clothing", "hair", "face", "accessories", "environment", "lighting", "camera", "style"... https://x.com/maxxmalist/status/1992994234459152649
 https://x.com/ViralOps_/status/1992998873972064430
