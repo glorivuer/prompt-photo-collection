@@ -1,3 +1,29 @@
+Seeing a little animated version of myself in this shop window made me think what parts of us stay the same no matter how we change or grow? 
+
+If you could turn one side of yourself into a cartoon, which side would you show to the world and why?
+
+{
+  "PROMPT": "Create a bright, high-end street-fashion photograph of the woman from the reference image, keeping her face, hair, body & outfit exactly the same. She stands outside a luxury toy-shop window, gently touching the glass. Inside the window display, place a full-height cartoon-style doll designed to resemble her—same features, hair, and outfit—transformed into a cute, big-eyed, stylized animated character. Crisp lighting, premium street-fashion look, realistic reflections, face unchanged.",
+  "settings": {
+    "style": "high-end street fashion",
+    "lighting": "crisp and bright",
+    "environment": "outside luxury toy-shop window",
+    "subject": "woman from reference image",
+    "focus": ["face", "hair", "body", "outfit"],
+    "additional_elements": [
+      {
+        "type": "doll",
+        "style": "cartoon-style, big-eyed, stylized",
+        "location": "inside window display",
+        "resemblance": "exact features, hair, outfit of woman"
+      }
+    ],
+    "reflections": "realistic",
+    "photorealism": true
+  }
+}
+
+
 A cyber-grunge surveillance-style fashion editorial featuring a young, beautiful, cute Japanese woman in her early 20s, with large expressive eyes and K-pop idol–inspired makeup. Her makeup highlights flawless radiant skin, soft shimmer around the eyelids, sharp eyeliner, and glossy lips, giving a refined feminine glow.
 
 She has long, sleek black hair with perfectly trimmed bangs, smooth texture, and soft highlights, flowing naturally behind her as she walks.
