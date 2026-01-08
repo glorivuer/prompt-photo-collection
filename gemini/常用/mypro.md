@@ -1,5 +1,12 @@
 Extract all visual details of the face and hairstyle from the uploaded image, and then create an image based on these visual details.
 
+"Consistent Character" (角色一致性) 或者 "Face Consistency" (脸部一致性) 工作流。
+Keep facial features identical to the reference image
+Keep the facial features, hair, and body type exactly the same
+PROMPT:  
+"I’m taking a selfie with [movie character] on the set of [movie name].  
+Keep the person exactly as shown in the reference image with 100% identical facial features, bone structure, skin tone, facial expression, pose, and appearance. 1:1 aspect ratio, 4K detail."
+
 extract all visual details from this image and convert them into a clean, well-structured JSON prompt. include sections: "subject", "clothing", "hair", "face", "accessories", "environment", "lighting", "camera", "style"... https://x.com/maxxmalist/status/1992994234459152649
 https://x.com/ViralOps_/status/1992998873972064430
 
