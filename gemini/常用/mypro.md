@@ -1,5 +1,7 @@
 Extract all visual details of the face and hairstyle from the uploaded image, and then create an image based on these visual details.
 
+Use the uploaded reference strictly for her face, identity, and facial structure — no alterations allowed.
+
 Use the uploaded image as an img-to-img reference, preserving full facial likeness and identity, and create artwork that 
 
 "Consistent Character" (角色一致性) 或者 "Face Consistency" (脸部一致性) 工作流。
