@@ -1,3 +1,20 @@
+
+
+Ultra-realistic cinematic studio portrait of a woman directing a miniature film set starring a tiny lifelike version of herself.
+She adjusts a miniature camera while the small figure stands under scaled studio lights.
+The miniature self matches her exact appearance, outfit, and natural expression.
+The environment includes mini tripods, clapperboards, light modifiers, and film reels.
+Moody cinematic lighting enhances realism, skin texture, and micro-set detail.
+Shallow depth of field, cinematic framing, ultra-photorealistic textures, 8K detail.
+Style: cinematic studio realism, no illustration, no CGI. 1:1
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/59eb35fe-39cc-4571-8572-4d39fb0ab6c5" />
+
+
+
+
+
+
+
 veo
 Light snow turning into heavy snow across the Halifax with intense wind.
 
