@@ -1,3 +1,8 @@
+Create a picture taken with an instant camera. The photo should look like a normal photo, with no objects in the background. It should have a slight effect and a constant light source, like a flash in a dark room, distributed throughout the image. Don't alter the faces. Replace the background behind the two people with a white curtain. We should be hugging.
+
+<img width="1024" height="674" alt="image" src="https://github.com/user-attachments/assets/a1c07bc4-c0b0-4558-b696-570bf1d9982b" />
+
+
 {
   "scene": {
     "floor_color_hex": "#8B8B8B",
